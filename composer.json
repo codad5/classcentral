@@ -1,0 +1,22 @@
+{
+    "name": "codad5/classcentral",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Codad5\\Classcentral\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "codad5",
+            "email": "aniezeoformic@gmail.com"
+        }
+    ],
+    "require": {
+        "sunra/php-simple-html-dom-parser": "^1.5",
+        "guzzlehttp/guzzle": "^7.5",
+        "paquettg/php-html-parser": "^2.1",
+        "google/cloud-translate": "^1.12",
+        "stichoza/google-translate-php": "^5.1"
+    }
+}
