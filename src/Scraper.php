@@ -8,7 +8,7 @@ use PHPHtmlParser\Dom;
 
 
 class Scraper{
-    public static function scrapeFromUrl($url, $depth = 0)
+    public static function scrapeFromUrl($url, $depth = 0, \Closure $aftereach = null, \Closure $onDone = null)
     {
         $full_host = parse_url($url);
         // var_dump($full_host);
@@ -25,6 +25,9 @@ class Scraper{
             if(rtrim($path, '/') == '') $path = "index.html";
             $html = str_replace('/webpack/',"$host_link/webpack/", $html);
             $html = str_replace('/cdn-cgi/',"$host_link/cdn-cgi/", $html);
+            (function() use (&$html, $url, $aftereach){
+                return $aftereach($html, $url);
+            })();
             self::saveFIle($path, $html);
             self::downloadStyleSheets($dom->find('link'), $host_link);
             self::downloadStyleSheets($dom->find('style'), $host_link);
@@ -40,11 +43,14 @@ class Scraper{
                     if(!isset($crawl_url['host'])) $link = $full_host['scheme'] . "://" . $full_host['host'].$link;
                     echo $i."\n";
                     $links[$i]->setAttribute('href', $link);
-                    self::scrapeFromUrl($link, $depth -1);
+                    self::scrapeFromUrl($link, $depth -1, $aftereach);
                     
                         
                 }
-            return $html;
+            return !$onDone ? $html :
+            (function () use ($path, $onDone) {
+                return $onDone($path);
+            })();
         }catch(Exception $e)
         {
             echo $e->getMessage()." at line ".$e->getLine()." in ".$e->getFile()."for URL at $url \n";
