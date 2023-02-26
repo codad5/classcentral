@@ -5,8 +5,51 @@ require_once 'vendor/autoload.php';
 use Codad5\Classcentral\Scraper;
 use Stichoza\GoogleTranslate\GoogleTranslate;
 
-$tr = new GoogleTranslate('en'); // Translates into English
-$tr->setTarget('hi'); // Translate to Georgian
+
+
+function translate($string , $target)
+{
+    $tr = new GoogleTranslate('en'); // Translates into English
+    $tr->setTarget($target); // Translate to Georgian
+    $string_array = splitString($string);
+    echo count($string_array)." \n";
+    $translated_array = []; 
+    try{
+        for ($i=0; $i < count($string_array); $i++) {
+            // echo $i;
+            $translated_array[] = $tr->translate($string_array[$i]);
+        }
+    }catch(\Throwable $th){
+        echo $th->getMessage();
+    }
+    return implode($translated_array);
+}
+
+function splitString($str) {
+    $result = array();
+    $words = preg_split('/\s+/', $str, -1, PREG_SPLIT_NO_EMPTY);
+    $len = count($words);
+    $start = 0;
+    while ($start < $len) {
+        $end = $start + 100;
+        $length = 0;
+        for ($i = $start; $i < $end && $i < $len; $i++) {
+            $word_length = strlen($words[$i]) + 1; // add 1 for the space character
+            if ($length + $word_length > 110) {
+                $end = $i;
+                break;
+            }
+            $length += $word_length;
+        }
+        $result[] = implode(' ', array_slice($words, $start, $end - $start));
+        $start = $end;
+    }
+    // var_dump($result);
+    return $result;
+}
+
+
+
 
 $man = Scraper::scrapeFromUrl("https://www.classcentral.com/", 1, function(&$main_html, $url){
     $html = $main_html;
@@ -20,20 +63,19 @@ $man = Scraper::scrapeFromUrl("https://www.classcentral.com/", 1, function(&$mai
     echo count($matches[1])."\n";
     $filtered_matches = array_values(array_unique($matches[1]));
     echo count($filtered_matches)."\n";
-    $test_string = implode("==$",$filtered_matches);
+    $test_string = implode(" ==$ ",($filtered_matches));
     try {
-        $use = $test_string;
-        if(strlen($use) > 150) {
-
-        }
-        $test_string = $tr->translate($test_string);
-        echo "translated test_string \n";
-        $test_array = explode("==$", $test_string);
+        echo "translating test_string \n";
+        $test_string = translate($test_string, 'hi');
+        
+        $test_array = explode(" ==$ ", $test_string);
         var_dump($test_array);
+        echo "translated test_string \n";
+        // exit;
         for ($i = 0; $i < count($filtered_matches); $i++) {
             if (empty(trim($filtered_matches[$i]))) continue;
             $new_arr[] = trim($filtered_matches[$i]);
-            $html = str_replace(trim($filtered_matches[$i]), $test_array[$i], $main_html);
+            $html = str_replace(trim($filtered_matches[$i]), $test_array[$i] ?? trim($filtered_matches[$i]), $main_html);
         }
     } catch (\Throwable $th) {
         //throw $th;

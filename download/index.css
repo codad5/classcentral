@@ -147,7 +147,7 @@
   window.CC = { Class: {} };
 
   if (document && document.cookie) {
-    document.cookie = "sessionId=1a08e4d1dda08c254788e1f7b9; path=/; samesite=lax";
+    document.cookie = "sessionId=b10cfeb5fc5dbbda52a6cbd8a0; path=/; samesite=lax";
   }
 </script>
 
@@ -3330,7 +3330,7 @@
 <form class="search-input--fancy" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-1261541292"
+    id="autocomplete-search-782262421"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3344,7 +3344,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-1261541292"
+    aria-controls="autocomplete-search-782262421"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3368,7 +3368,7 @@
 <form class="search-input--compact" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-1760870880"
+    id="autocomplete-search-1308838946"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3382,7 +3382,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-1760870880"
+    aria-controls="autocomplete-search-1308838946"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3418,14 +3418,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cdata&#x20;science&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cmarketing&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;data&#x20;science&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;marketing&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">data science</span>
+                                    <span class="search-results__result-name">marketing</span>
                                 </div>
                             </button>
                                             </li>
@@ -3435,14 +3435,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cjavascript&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cmachine&#x20;learning&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;javascript&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;machine&#x20;learning&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">javascript</span>
+                                    <span class="search-results__result-name">machine learning</span>
                                 </div>
                             </button>
                                             </li>
@@ -3452,14 +3452,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201ccomputer&#x20;science&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cFrench&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;computer&#x20;science&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;French&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">computer science</span>
+                                    <span class="search-results__result-name">French</span>
                                 </div>
                             </button>
                                             </li>
@@ -5220,7 +5220,7 @@
       </a>
     </li>
     <li>
-      <a href="/cdn-cgi/l/email-protection#c6f9b5b3a4aca3a5b2fbe0a7abb6fda4a9a2bffbe3f4f6aeb2b2b6b5e3f587e3f480e3f480b1b1b1e8a5aaa7b5b5a5a3a8b2b4a7aae8a5a9abe3f480" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "" }' data-track-ga='[
+      <a href="/cdn-cgi/l/email-protection#f4cb8781969e919780c9d2959984cf969b908dc9d1c6c49c80808487d1c7b5d1c6b2d1c6b2838383da979895878797919a80869598da979b99d1c6b2" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "" }' data-track-ga='[
           { 
             "category": "Social Widget sharing by network", 
             "action": "email", 
@@ -5280,7 +5280,7 @@
     url: "",
     indexes: {"weekly":"2023_02_26","monthly":"2023_02"},
     trackImpressions: true,
-    globalProps: {"abTests":[],"deviceType":"desktop","page":"home","user":[],"metadata":[],"original_referer":"direct","created":"2023-02-26T21:11:36+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
+    globalProps: {"abTests":[],"deviceType":"desktop","page":"home","user":[],"metadata":[],"original_referer":"direct","created":"2023-02-26T21:54:37+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
   });
 
   CC.track = window.CC.Class.Analytics.track.bind(window.CC.Class.Analytics);
