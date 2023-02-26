@@ -7,9 +7,7 @@ use Stichoza\GoogleTranslate\GoogleTranslate;
 
 $tr = new GoogleTranslate('en'); // Translates into English
 $tr->setTarget('hi'); // Translate to Georgian
-// echo $tr->translate(file_get_contents('./download/index.html'));
-// var_dump(parse_url('goog.mk/hjash/as'));
-// var_dump(pathinfo("download/index.html"));
+
 $man = Scraper::scrapeFromUrl("https://www.classcentral.com/", 1, function(&$main_html, $url){
     $html = $main_html;
     $html = preg_replace('/<script\b[^>]*>.*?<\/script>/is', '', $html);
@@ -26,7 +24,7 @@ $man = Scraper::scrapeFromUrl("https://www.classcentral.com/", 1, function(&$mai
     try {
         $use = $test_string;
         if(strlen($use) > 150) {
-            
+
         }
         $test_string = $tr->translate($test_string);
         echo "translated test_string \n";
@@ -46,25 +44,3 @@ $man = Scraper::scrapeFromUrl("https://www.classcentral.com/", 1, function(&$mai
     $textNodes = $new_arr;
     return $main_html = $html;
 });
-// $r_404 = Scraper::scrapeFromUrl("https://www.classcentral.com/404");
-// $ll = explode("/", rtrim("https://google.com/man/james", '/'));
-// var_dump($ll);
-
-// $html = file_get_contents('./download/index.html');
-// $html = preg_replace('/<script\b[^>]*>.*?<\/script>/is', '', $html);
-// $html = preg_replace('/<style\b[^>]*>.*?<\/style>/is', '', $html);
-// $matches = array();
-// preg_match_all('/>([^<]*)</', $html, $matches);
-
-// $new_arr = [];
-// for ($i=0; $i < count($matches[1]); $i++) { 
-//     # code...
-//     if (empty(trim($matches[1][$i]))) continue;
-//     $new_arr[] = trim($matches[1][$i]);
-// }
-// $textNodes = $new_arr;
-
-// var_dump($textNodes);
-
-
-// $aftereach = fn() => null;
