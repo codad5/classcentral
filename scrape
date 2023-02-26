@@ -19,12 +19,30 @@ $man = Scraper::scrapeFromUrl("https://www.classcentral.com/", 1, function(&$mai
     echo "begin translation for $url \n";
     $new_arr = [];
     global $tr;
-    for ($i=0; $i < count($matches[1]); $i++) { 
-        if (empty(trim($matches[1][$i]))) continue;
-        if
-        $new_arr[] = trim($matches[1][$i]);
-        $html = str_replace(trim($matches[1][$i]), $tr->translate(trim($matches[1][$i])), $html);
+    echo count($matches[1])."\n";
+    $filtered_matches = array_values(array_unique($matches[1]));
+    echo count($filtered_matches)."\n";
+    $test_string = implode("==$",$filtered_matches);
+    try {
+        $use = $test_string;
+        if(strlen($use) > 150) {
+            
+        }
+        $test_string = $tr->translate($test_string);
+        echo "translated test_string \n";
+        $test_array = explode("==$", $test_string);
+        var_dump($test_array);
+        for ($i = 0; $i < count($filtered_matches); $i++) {
+            if (empty(trim($filtered_matches[$i]))) continue;
+            $new_arr[] = trim($filtered_matches[$i]);
+            $html = str_replace(trim($filtered_matches[$i]), $test_array[$i], $main_html);
+        }
+    } catch (\Throwable $th) {
+        //throw $th;
+        echo $th->getMessage();
+        return $main_html = $html;
     }
+    var_dump($filtered_matches);
     $textNodes = $new_arr;
     return $main_html = $html;
 });
