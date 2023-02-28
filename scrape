@@ -70,22 +70,27 @@ $man = Scraper::scrapeFromUrl("https://www.classcentral.com/", 1, function(&$htm
         echo "translated test_string ". trim($filtered_matches[12]) ." \n";
         for ($i = 0; $i < count($filtered_matches); $i++) {
             if (empty(trim($filtered_matches[$i]))) continue;
-            $text = $filtered_matches[$i];
-            if(isset($test_array[$i])) $text = $test_array[$i];
+            $text = $test_array[$i] ?? $filtered_matches[$i];
             echo strpos($html, trim($filtered_matches[$i])) > 0 ? "Yes" : "false";
             echo PHP_EOL;
-            $new_arr[] = trim   ($filtered_matches[$i]);
-            $c_html = str_replace(trim($filtered_matches[$i]), $text, $html);
+            $new_arr[] = $text;
+            $html = str_replace(trim($filtered_matches[$i]), $text, $html);
+            pre
+            // $html = $c_html;
             if ( $i <= 2) echo $text;
             echo "IN c_html ". (strpos($c_html, $text) > 0 ? "Yes" : "false")."";
             echo PHP_EOL;
+            echo "IN c_html 2 ". (strpos($c_html, trim($filtered_matches[$i])) > 0 ? "Yes" : "false")."";
+            echo PHP_EOL;
         }
+        // $c_html = "MEn are at  times bold";
+        // $c_html = str_replace("times", "ईमेल", $c_html);
     } catch (\Throwable $th) {
         //throw $th;
         echo $th->getMessage();
     }
     // var_dump($filtered_matches);
-    $html = $c_html;
+    // $html = $c_html;
     // var_dump($c_html);
     $textNodes = $new_arr;
     // $html = "men";

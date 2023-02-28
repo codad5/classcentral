@@ -147,7 +147,7 @@
   window.CC = { Class: {} };
 
   if (document && document.cookie) {
-    document.cookie = "sessionId=c87c08549056f520e585e43987; path=/; samesite=lax";
+    document.cookie = "sessionId=3b5546e8e1a981fb097ac177b4; path=/; samesite=lax";
   }
 </script>
 
@@ -3342,7 +3342,7 @@
 <form class="search-input--fancy" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-338806243"
+    id="autocomplete-search-1664762321"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3356,7 +3356,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-338806243"
+    aria-controls="autocomplete-search-1664762321"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3380,7 +3380,7 @@
 <form class="search-input--compact" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-625583469"
+    id="autocomplete-search-794762122"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3394,7 +3394,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-625583469"
+    aria-controls="autocomplete-search-794762122"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3430,14 +3430,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201csql&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cjava&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;sql&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;java&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">sql</span>
+                                    <span class="search-results__result-name">java</span>
                                 </div>
                             </button>
                                             </li>
@@ -3447,14 +3447,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cgraphic&#x20;design&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cpsychology&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;graphic&#x20;design&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;psychology&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">graphic design</span>
+                                    <span class="search-results__result-name">psychology</span>
                                 </div>
                             </button>
                                             </li>
@@ -3464,14 +3464,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201ccyber&#x20;security&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201chtml&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;cyber&#x20;security&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;html&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">cyber security</span>
+                                    <span class="search-results__result-name">html</span>
                                 </div>
                             </button>
                                             </li>
@@ -5232,7 +5232,7 @@
       </a>
     </li>
     <li>
-      <a href="/cdn-cgi/l/email-protection#8cb3fff9eee6e9eff8b1aaede1fcb7eee3e8f5b1a9bebce4f8f8fcffa9bfcda9becaa9becafbfbfba2efe0edffffefe9e2f8feede0a2efe3e1a9beca" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "" }' data-track-ga='[
+      <a href="/cdn-cgi/l/email-protection#152a6660777f70766128337478652e777a716c283027257d616165663026543027533027536262623b767974666676707b616774793b767a78302753" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "" }' data-track-ga='[
           { 
             "category": "Social Widget sharing by network", 
             "action": "email", 
@@ -5292,7 +5292,7 @@
     url: "",
     indexes: {"weekly":"2023_02_26","monthly":"2023_02"},
     trackImpressions: true,
-    globalProps: {"abTests":[],"deviceType":"desktop","page":"home","user":[],"metadata":[],"original_referer":"direct","created":"2023-02-28T21:31:53+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"NL","name":"Netherlands"},"city":{"name":"Amsterdam"},"location":{"accuracy_radius":500,"latitude":52.3534,"longitude":4.9087,"time_zone":"Europe\/Amsterdam"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
+    globalProps: {"abTests":[],"deviceType":"desktop","page":"home","user":[],"metadata":[],"original_referer":"direct","created":"2023-02-28T21:49:43+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
   });
 
   CC.track = window.CC.Class.Analytics.track.bind(window.CC.Class.Analytics);
