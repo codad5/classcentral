@@ -9,10 +9,10 @@ use Stichoza\GoogleTranslate\GoogleTranslate;
 
 function translate($string , $target)
 {
-    $tr = new GoogleTranslate('en'); // Translates into English
-    $tr->setTarget($target); // Translate to Georgian
+    $tr = new GoogleTranslate('en'); // Translates from englush
+    $tr->setTarget($target); 
+    // var_dump($string);
     $string_array = splitString($string);
-    echo count($string_array)." \n";
     $translated_array = []; 
     try{
         for ($i=0; $i < count($string_array); $i++) {
@@ -51,38 +51,43 @@ function splitString($str) {
 
 
 
-$man = Scraper::scrapeFromUrl("https://www.classcentral.com/", 1, function(&$main_html, $url){
-    $html = $main_html;
-    $html = preg_replace('/<script\b[^>]*>.*?<\/script>/is', '', $html);
-    $html = preg_replace('/<style\b[^>]*>.*?<\/style>/is', '', $html);
+$man = Scraper::scrapeFromUrl("https://www.classcentral.com/", 1, function(&$html, $url){
+    $c_html = $html;
+    $c_html = preg_replace('/<script\b[^>]*>.*?<\/script>/is', '', $c_html);
+    $c_html = preg_replace('/<style\b[^>]*>.*?<\/style>/is', '', $c_html);
     $matches = array();
-    preg_match_all('/>([^<]*)</', $html, $matches);
+    preg_match_all('/>([^<]*)</', $c_html, $matches);
     echo "begin translation for $url \n";
     $new_arr = [];
-    global $tr;
-    echo count($matches[1])."\n";
-    $filtered_matches = array_values(array_unique($matches[1]));
-    echo count($filtered_matches)."\n";
-    $test_string = implode(" ==$ ",($filtered_matches));
+    $filtered_matches = array_filter($matches[1], 'trim');
+    $filtered_matches = array_values(array_unique($filtered_matches));
+    $test_string = implode(" ==$ ",$filtered_matches);
     try {
         echo "translating test_string \n";
         $test_string = translate($test_string, 'hi');
-        
-        $test_array = explode(" ==$ ", $test_string);
+        $test_array = explode("==$", $test_string);
         var_dump($test_array);
-        echo "translated test_string \n";
-        // exit;
+        echo "translated test_string ". trim($filtered_matches[12]) ." \n";
         for ($i = 0; $i < count($filtered_matches); $i++) {
             if (empty(trim($filtered_matches[$i]))) continue;
-            $new_arr[] = trim($filtered_matches[$i]);
-            $html = str_replace(trim($filtered_matches[$i]), $test_array[$i] ?? trim($filtered_matches[$i]), $main_html);
+            $text = $filtered_matches[$i];
+            if(isset($test_array[$i])) $text = $test_array[$i];
+            echo strpos($html, trim($filtered_matches[$i])) > 0 ? "Yes" : "false";
+            echo PHP_EOL;
+            $new_arr[] = trim   ($filtered_matches[$i]);
+            $c_html = str_replace(trim($filtered_matches[$i]), $text, $html);
+            if ( $i <= 2) echo $text;
+            echo "IN c_html ". (strpos($c_html, $text) > 0 ? "Yes" : "false")."";
+            echo PHP_EOL;
         }
     } catch (\Throwable $th) {
         //throw $th;
         echo $th->getMessage();
-        return $main_html = $html;
     }
-    var_dump($filtered_matches);
+    // var_dump($filtered_matches);
+    $html = $c_html;
+    // var_dump($c_html);
     $textNodes = $new_arr;
-    return $main_html = $html;
+    // $html = "men";
+    return $html;
 });
