@@ -147,7 +147,7 @@
   window.CC = { Class: {} };
 
   if (document && document.cookie) {
-    document.cookie = "sessionId=3b5546e8e1a981fb097ac177b4; path=/; samesite=lax";
+    document.cookie = "sessionId=bb6161b72279bfb636efef29b2; path=/; samesite=lax";
   }
 </script>
 
@@ -3113,6 +3113,36 @@
                   <li class="text-2 border-bottom border-gray-light">
             <a
               data-track-ga='[
+                { "category": "News", "action": "Latest — What is the Secret of Chinese Economic Success?", "label": "Navbar"},
+                { "category": "nav_click", "action": "news", "label": "latest — What is the Secret of Chinese Economic Success?"}
+              ]'
+              class="color-charcoal padding-vert-small block"
+              href="https://www.classcentral.com/report/review-china-economic-transformation/"
+            >What is the Secret of Chinese Economic Success?</a>
+          </li>
+                  <li class="text-2 border-bottom border-gray-light">
+            <a
+              data-track-ga='[
+                { "category": "News", "action": "Latest — 20 Most Cited Research Papers on MOOCs", "label": "Navbar"},
+                { "category": "nav_click", "action": "news", "label": "latest — 20 Most Cited Research Papers on MOOCs"}
+              ]'
+              class="color-charcoal padding-vert-small block"
+              href="https://www.classcentral.com/report/most-cited-mooc-research/"
+            >20 Most Cited Research Papers on MOOCs</a>
+          </li>
+                  <li class="text-2 border-bottom border-gray-light">
+            <a
+              data-track-ga='[
+                { "category": "News", "action": "Latest — 10 Best Digital Art Courses to Take in 2023", "label": "Navbar"},
+                { "category": "nav_click", "action": "news", "label": "latest — 10 Best Digital Art Courses to Take in 2023"}
+              ]'
+              class="color-charcoal padding-vert-small block"
+              href="https://www.classcentral.com/report/best-digital-art-courses/"
+            >10 Best Digital Art Courses to Take in 2023</a>
+          </li>
+                  <li class="text-2 border-bottom border-gray-light">
+            <a
+              data-track-ga='[
                 { "category": "News", "action": "Latest — EMOOCs 2023: Call for Papers [Deadline March 15]", "label": "Navbar"},
                 { "category": "nav_click", "action": "news", "label": "latest — EMOOCs 2023: Call for Papers [Deadline March 15]"}
               ]'
@@ -3120,7 +3150,7 @@
               href="https://www.classcentral.com/report/emoocs-2023-cfp/"
             >EMOOCs 2023: Call for Papers [Deadline March 15]</a>
           </li>
-                  <li class="text-2 border-bottom border-gray-light">
+                  <li class="text-2 ">
             <a
               data-track-ga='[
                 { "category": "News", "action": "Latest — 7 Best Elm Courses to Take in 2023", "label": "Navbar"},
@@ -3129,36 +3159,6 @@
               class="color-charcoal padding-vert-small block"
               href="https://www.classcentral.com/report/best-elm-courses/"
             >7 Best Elm Courses to Take in 2023</a>
-          </li>
-                  <li class="text-2 border-bottom border-gray-light">
-            <a
-              data-track-ga='[
-                { "category": "News", "action": "Latest — Coursera’s New Deal with Google Could Cost the Company Millions", "label": "Navbar"},
-                { "category": "nav_click", "action": "news", "label": "latest — Coursera’s New Deal with Google Could Cost the Company Millions"}
-              ]'
-              class="color-charcoal padding-vert-small block"
-              href="https://www.classcentral.com/report/coursera-google-new-deal/"
-            >Coursera’s New Deal with Google Could Cost the Company Millions</a>
-          </li>
-                  <li class="text-2 border-bottom border-gray-light">
-            <a
-              data-track-ga='[
-                { "category": "News", "action": "Latest — Rethinking Happiness to Increase Our Well-Being", "label": "Navbar"},
-                { "category": "nav_click", "action": "news", "label": "latest — Rethinking Happiness to Increase Our Well-Being"}
-              ]'
-              class="color-charcoal padding-vert-small block"
-              href="https://www.classcentral.com/report/review-science-of-well-being/"
-            >Rethinking Happiness to Increase Our Well-Being</a>
-          </li>
-                  <li class="text-2 ">
-            <a
-              data-track-ga='[
-                { "category": "News", "action": "Latest — 10 Best Resume Writing Courses to Take in 2023", "label": "Navbar"},
-                { "category": "nav_click", "action": "news", "label": "latest — 10 Best Resume Writing Courses to Take in 2023"}
-              ]'
-              class="color-charcoal padding-vert-small block"
-              href="https://www.classcentral.com/report/best-resume-writing-courses/"
-            >10 Best Resume Writing Courses to Take in 2023</a>
           </li>
               </ol>
     </div>
@@ -3342,7 +3342,7 @@
 <form class="search-input--fancy" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-1664762321"
+    id="autocomplete-search-1714951747"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3356,7 +3356,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-1664762321"
+    aria-controls="autocomplete-search-1714951747"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3380,7 +3380,7 @@
 <form class="search-input--compact" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-794762122"
+    id="autocomplete-search-1834520140"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3394,7 +3394,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-794762122"
+    aria-controls="autocomplete-search-1834520140"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3464,14 +3464,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201chtml&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201charvard&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;html&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;harvard&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">html</span>
+                                    <span class="search-results__result-name">harvard</span>
                                 </div>
                             </button>
                                             </li>
@@ -3485,11 +3485,23 @@
                                                                                                 
                         
                         
+                                                    <a class="search-results__result js-autocomplete-result" href="/subject/business" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cBusiness&#x5C;u201d&quot;&#x7D;">
+                                <i class="search-results__result-icon icon-subject-charcoal icon-small"></i>
+                                <div class="search-results__result-info">
+                                    <p class="search-results__result-name">Business</p>
+                                                                            <span class="search-results__result-extra">19,593 courses</span>
+                                                                    </div>
+                            </a>
+                                            </li>
+                                    <li>
+                                                                                                
+                        
+                        
                                                     <a class="search-results__result js-autocomplete-result" href="/subject/ai" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cArtificial&#x20;Intelligence&#x5C;u201d&quot;&#x7D;">
                                 <i class="search-results__result-icon icon-subject-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
                                     <p class="search-results__result-name">Artificial Intelligence</p>
-                                                                            <span class="search-results__result-extra">1,550 courses</span>
+                                                                            <span class="search-results__result-extra">1,563 courses</span>
                                                                     </div>
                             </a>
                                             </li>
@@ -3501,19 +3513,7 @@
                                 <i class="search-results__result-icon icon-subject-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
                                     <p class="search-results__result-name">Digital Skills</p>
-                                                                            <span class="search-results__result-extra">220 courses</span>
-                                                                    </div>
-                            </a>
-                                            </li>
-                                    <li>
-                                                                                                
-                        
-                        
-                                                    <a class="search-results__result js-autocomplete-result" href="/subject/data-analysis" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cData&#x20;Analysis&#x5C;u201d&quot;&#x7D;">
-                                <i class="search-results__result-icon icon-subject-charcoal icon-small"></i>
-                                <div class="search-results__result-info">
-                                    <p class="search-results__result-name">Data Analysis</p>
-                                                                            <span class="search-results__result-extra">1,239 courses</span>
+                                                                            <span class="search-results__result-extra">221 courses</span>
                                                                     </div>
                             </a>
                                             </li>
@@ -3527,35 +3527,35 @@
                                                                                                 
                         
                         
-                                                    <a class="search-results__result js-autocomplete-result" href="/course/multilingual-practices-8096" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cMultilingual&#x20;Practices&#x3A;&#x20;Tackling&#x20;Challenges&#x20;and&#x20;Creating&#x20;Opportunities&#x5C;u201d&quot;&#x7D;">
+                                                    <a class="search-results__result js-autocomplete-result" href="/course/edx-introduccion-a-los-encofrados-y-las-cimbras-en-obra-civil-y-edificacion-11880" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cIntroducci&#x5C;u00f3n&#x20;a&#x20;los&#x20;encofrados&#x20;y&#x20;las&#x20;cimbras&#x20;en&#x20;obra&#x20;civil&#x20;y&#x20;edificaci&#x5C;u00f3n&#x5C;u201d&quot;&#x7D;">
                                 <i class="search-results__result-icon icon-course-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <p class="search-results__result-name">Multilingual Practices: Tackling Challenges and Creating Opportunities</p>
-                                                                                                                        <span class="search-results__result-extra">University of Groningen</span>
-                                                                                                            </div>
-                            </a>
-                                            </li>
-                                    <li>
-                                                                                                
-                        
-                        
-                                                    <a class="search-results__result js-autocomplete-result" href="/course/edx-ap-microeconomics-8630" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cAP&#x5C;u00ae&#x20;Microeconomics&#x5C;u201d&quot;&#x7D;">
-                                <i class="search-results__result-icon icon-course-charcoal icon-small"></i>
-                                <div class="search-results__result-info">
-                                    <p class="search-results__result-name">AP® Microeconomics</p>
-                                                                                                                        <span class="search-results__result-extra">Massachusetts Institute of Technology</span>
-                                                                                                            </div>
-                            </a>
-                                            </li>
-                                    <li>
-                                                                                                
-                        
-                        
-                                                    <a class="search-results__result js-autocomplete-result" href="/course/edx-bases-matematicas-numeros-y-terminologia-2955" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cBases&#x20;Matem&#x5C;u00e1ticas&#x3A;&#x20;N&#x5C;u00fameros&#x20;y&#x20;terminolog&#x5C;u00eda&#x5C;u201d&quot;&#x7D;">
-                                <i class="search-results__result-icon icon-course-charcoal icon-small"></i>
-                                <div class="search-results__result-info">
-                                    <p class="search-results__result-name">Bases Matemáticas: Números y terminología</p>
+                                    <p class="search-results__result-name">Introducción a los encofrados y las cimbras en obra civil y edificación</p>
                                                                                                                         <span class="search-results__result-extra">Universitat Politècnica de València</span>
+                                                                                                            </div>
+                            </a>
+                                            </li>
+                                    <li>
+                                                                                                
+                        
+                        
+                                                    <a class="search-results__result js-autocomplete-result" href="/course/ancientgreeks-502" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cThe&#x20;Ancient&#x20;Greeks&#x5C;u201d&quot;&#x7D;">
+                                <i class="search-results__result-icon icon-course-charcoal icon-small"></i>
+                                <div class="search-results__result-info">
+                                    <p class="search-results__result-name">The Ancient Greeks</p>
+                                                                                                                        <span class="search-results__result-extra">Wesleyan University</span>
+                                                                                                            </div>
+                            </a>
+                                            </li>
+                                    <li>
+                                                                                                
+                        
+                        
+                                                    <a class="search-results__result js-autocomplete-result" href="/course/end-of-life-care-16932" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cEnd&#x20;of&#x20;Life&#x20;Care&#x3A;&#x20;Challenges&#x20;and&#x20;Innovation&#x5C;u201d&quot;&#x7D;">
+                                <i class="search-results__result-icon icon-course-charcoal icon-small"></i>
+                                <div class="search-results__result-info">
+                                    <p class="search-results__result-name">End of Life Care: Challenges and Innovation</p>
+                                                                                                                        <span class="search-results__result-extra">University of Glasgow</span>
                                                                                                             </div>
                             </a>
                                             </li>
@@ -4328,7 +4328,7 @@
       </div>
 
               <p class="head-2 weight-semi color-white margin-bottom-xxlarge relative padding-left-xlarge">
-          <strong class="head-2 color-yellow target-yellow">15,836</strong> sign ups in the past 7 days
+          <strong class="head-2 color-yellow target-yellow">15,759</strong> sign ups in the past 7 days
         </p>
           </div>
     <aside class="relative large-up-width-2-5 border-box">
@@ -4339,7 +4339,7 @@
             follows
           </span>
                       <p class="text-1 color-white relative padding-left-xlarge">
-              <strong class="text- weight-bold color-yellow target-yellow">62,690</strong> follows in the past 7 days
+              <strong class="text- weight-bold color-yellow target-yellow">63,674</strong> follows in the past 7 days
             </p>
                   </li>
         <li class="text-left padding-left-medium padding-bottom-large large-up-margin-bottom-large">
@@ -4348,7 +4348,7 @@
             bookmarks
           </span>
                       <p class="text-1 color-white relative padding-left-xlarge">
-              <strong class="text-1 weight-bold color-yellow target-yellow">68,359</strong> courses bookmarked in the past 7 days
+              <strong class="text-1 weight-bold color-yellow target-yellow">69,544</strong> courses bookmarked in the past 7 days
             </p>
                   </li>
         <li class="text-left padding-left-medium margin-bottom-large">
@@ -4357,7 +4357,7 @@
             lists created
           </span>
                       <p class="text-1 color-white relative padding-left-xlarge">
-              <strong class="text-1 weight-bold color-yellow target-yellow">14,124</strong> lists created in the past 7 days
+              <strong class="text-1 weight-bold color-yellow target-yellow">14,302</strong> lists created in the past 7 days
             </p>
                   </li>
       </ul> 
@@ -4383,17 +4383,39 @@
                               <div class="width-100 large-up-width-1-3 border-box large-up-padding-right-medium">
                   <a
                     data-track-click="homepage_click"
-                    data-track-props='{ "type": "MOOC Report", "title": "EMOOCs 2023: Call for Papers [Deadline March 15]", "sub_section": "Latest Articles" }'
-                    href="https://www.classcentral.com/report/emoocs-2023-cfp/"
+                    data-track-props='{ "type": "MOOC Report", "title": "20 Most Cited Research Papers on MOOCs", "sub_section": "Latest Articles" }'
+                    href="https://www.classcentral.com/report/most-cited-mooc-research/"
                   >
                     <img
-                      src="https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2Fwp-content%2Fuploads%2F2022%2F12%2Femoocs-2023-banner-final.png?auto=format&amp;blur=200&amp;ixlib=php-3.3.1&amp;px=16&amp;w=375&amp;s=8d154e73c7587dd27e2319ff7871aa94"
-                      data-src="https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2Fwp-content%2Fuploads%2F2022%2F12%2Femoocs-2023-banner-final.png?auto=format&amp;ixlib=php-3.3.1&amp;w=375&amp;s=c188b6fa610da5ea51c09244faf49747"
+                      src="https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2Fwp-content%2Fuploads%2F2020%2F08%2Fpatrick-robert-doyle-OvXht_wi5Ew-unsplash.jpg?auto=format&amp;blur=200&amp;ixlib=php-3.3.1&amp;px=16&amp;w=375&amp;s=f237c28629528db3bb5425d99ab61056"
+                      data-src="https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2Fwp-content%2Fuploads%2F2020%2F08%2Fpatrick-robert-doyle-OvXht_wi5Ew-unsplash.jpg?auto=format&amp;ixlib=php-3.3.1&amp;w=375&amp;s=62a772acd7912171a05663836f71f136"
                       class="width-100"
-                      alt="EMOOCs conference 2023 banner"
+                      alt=""
                     />
                   </a>
                 </div>
+                            <div>
+                <h3>
+                  <a
+                    data-track-click="homepage_click"
+                    data-track-props='{ "type": "MOOC Report", "title": "20 Most Cited Research Papers on MOOCs", "sub_section": "Latest Articles" }'
+                    class="head-3 weight-semi line-tight color-charcoal"
+                    href="https://www.classcentral.com/report/most-cited-mooc-research/"
+                  >
+                    20 Most Cited Research Papers on MOOCs
+                  </a>
+                </h3>
+                <div class="row nowrap">
+                  <div>
+                    <a href="https://www.classcentral.com/report/author/heba/"><span class="text-2 color-charcoal inline-block margin-top-xxsmall margin-right-xsmall inline-block hover-underline">By Heba Ledwon</span></a>
+                    <span class="text-2 inline-block color-gray inline-block">Mar 1st, 2023</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+                  <li class="width-100 large-up-width-1-2 border-box large-up-padding-horz-small">
+            <div class="row large-up-nowrap vert-align-top border-bottom border-gray padding-bottom-medium margin-bottom-medium">
                             <div>
                 <h3>
                   <a
@@ -4525,7 +4547,7 @@
             </div>
           </li>
                   <li class="width-100 large-up-width-1-2 border-box large-up-padding-horz-small">
-            <div class="row large-up-nowrap vert-align-top border-bottom border-gray padding-bottom-medium margin-bottom-medium">
+            <div class="row large-up-nowrap vert-align-top  padding-bottom-medium margin-bottom-medium">
                             <div>
                 <h3>
                   <a
@@ -4563,28 +4585,6 @@
                   <div>
                     <a href="https://www.classcentral.com/report/author/dhawal/"><span class="text-2 color-charcoal inline-block margin-top-xxsmall margin-right-xsmall inline-block hover-underline">By Dhawal Shah</span></a>
                     <span class="text-2 inline-block color-gray inline-block">Jan 25th, 2023</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </li>
-                  <li class="width-100 large-up-width-1-2 border-box large-up-padding-horz-small">
-            <div class="row large-up-nowrap vert-align-top  padding-bottom-medium margin-bottom-medium">
-                            <div>
-                <h3>
-                  <a
-                    data-track-click="homepage_click"
-                    data-track-props='{ "type": "MOOC Report", "title": "Domestika, the Online Learning Unicorn, Closes Global Offices and Downsizes Staff by 40%", "sub_section": "Latest Articles" }'
-                    class="head-3 weight-semi line-tight color-charcoal"
-                    href="https://www.classcentral.com/report/domestika-layoffs/"
-                  >
-                    Domestika, the Online Learning Unicorn, Closes Global Offices and Downsizes Staff by 40%
-                  </a>
-                </h3>
-                <div class="row nowrap">
-                  <div>
-                    <a href="https://www.classcentral.com/report/author/dhawal/"><span class="text-2 color-charcoal inline-block margin-top-xxsmall margin-right-xsmall inline-block hover-underline">By Dhawal Shah</span></a>
-                    <span class="text-2 inline-block color-gray inline-block">Jan 23rd, 2023</span>
                   </div>
                 </div>
               </div>
@@ -5232,7 +5232,7 @@
       </a>
     </li>
     <li>
-      <a href="/cdn-cgi/l/email-protection#152a6660777f70766128337478652e777a716c283027257d616165663026543027533027536262623b767974666676707b616774793b767a78302753" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "" }' data-track-ga='[
+      <a href="/cdn-cgi/l/email-protection#06397573646c6365723b20676b763d6469627f3b2334366e7272767523354723344023344071717128656a6775756563687274676a2865696b233440" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "" }' data-track-ga='[
           { 
             "category": "Social Widget sharing by network", 
             "action": "email", 
@@ -5292,7 +5292,7 @@
     url: "",
     indexes: {"weekly":"2023_02_26","monthly":"2023_02"},
     trackImpressions: true,
-    globalProps: {"abTests":[],"deviceType":"desktop","page":"home","user":[],"metadata":[],"original_referer":"direct","created":"2023-02-28T21:49:43+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
+    globalProps: {"abTests":[],"deviceType":"desktop","page":"home","user":[],"metadata":[],"original_referer":"direct","created":"2023-03-01T23:42:13+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
   });
 
   CC.track = window.CC.Class.Analytics.track.bind(window.CC.Class.Analytics);

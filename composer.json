@@ -12,6 +12,9 @@
             "email": "aniezeoformic@gmail.com"
         }
     ],
+    "scripts": {
+        "scrape":"php ./scrape"
+    },
     "require": {
         "sunra/php-simple-html-dom-parser": "^1.5",
         "guzzlehttp/guzzle": "^7.5",
