@@ -120,7 +120,7 @@
   window.CC = { Class: {} };
 
   if (document && document.cookie) {
-    document.cookie = "sessionId=d641c7e926920acf26afbba896; path=/; samesite=lax";
+    document.cookie = "sessionId=0a015ea2de8a4d3662c28ebdc3; path=/; samesite=lax";
   }
 </script>
 
@@ -3205,7 +3205,7 @@
 <form class="search-input" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-617681147"
+    id="autocomplete-search-1675505555"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3219,7 +3219,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-617681147"
+    aria-controls="autocomplete-search-1675505555"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3244,7 +3244,7 @@
 <form class="search-input--compact" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-483522186"
+    id="autocomplete-search-965518291"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3258,7 +3258,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-483522186"
+    aria-controls="autocomplete-search-965518291"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3294,31 +3294,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201claw&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cc&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;law&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;c&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">law</span>
-                                </div>
-                            </button>
-                                            </li>
-                                    <li>
-                                                                                                
-                                                                                                                                    
-                        
-                                                    <button
-                                class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cfinance&#x5C;u201d&quot;&#x7D;"
-                                type="button"
-                                data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;finance&quot;&#x7D;"
-                            >
-                                <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
-                                <div class="search-results__result-info">
-                                    <span class="search-results__result-name">finance</span>
+                                    <span class="search-results__result-name">c</span>
                                 </div>
                             </button>
                                             </li>
@@ -3336,6 +3319,23 @@
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
                                     <span class="search-results__result-name">project management</span>
+                                </div>
+                            </button>
+                                            </li>
+                                    <li>
+                                                                                                
+                                                                                                                                    
+                        
+                                                    <button
+                                class="search-results__result js-autocomplete-result"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201charvard&#x5C;u201d&quot;&#x7D;"
+                                type="button"
+                                data-name="SUGGESTED_SEARCH_TERM"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;harvard&quot;&#x7D;"
+                            >
+                                <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
+                                <div class="search-results__result-info">
+                                    <span class="search-results__result-name">harvard</span>
                                 </div>
                             </button>
                                             </li>
@@ -3839,7 +3839,7 @@
           
               
         <li class="catalog-filter-group">
-                    <ol class="list-no-style padding-vert-xsmall catalog-filter-group__filter-list" id="catalog-filter-561269887">
+                    <ol class="list-no-style padding-vert-xsmall catalog-filter-group__filter-list" id="catalog-filter-2142181093">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -3943,7 +3943,7 @@
                 <span class="text-1 weight-semi">Level</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-631620474">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-158548587">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4024,7 +4024,7 @@
                 <span class="text-1 weight-semi">Duration</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-1588943682">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-1421251409">
                                                                                     
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4107,7 +4107,7 @@
                 <span class="text-1 weight-semi">Language</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list is-truncated" id="catalog-filter-838682626">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list is-truncated" id="catalog-filter-254192007">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4758,7 +4758,7 @@
               class="catalog-filter-group__truncation"
               aria-hidden="true"
               data-name="CATALOG_FILTER_SHOW_ALL"
-              data-detail="&#x7B;&quot;filterId&quot;&#x3A;&quot;catalog-filter-838682626&quot;&#x7D;"
+              data-detail="&#x7B;&quot;filterId&quot;&#x3A;&quot;catalog-filter-254192007&quot;&#x7D;"
             >
               <span class="btn-white btn-small catalog-filter-group__truncation-button">See all</span>
             </button>
@@ -4792,7 +4792,7 @@
     <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22iPhone%20Photography%3A%20How%20to%20Take%20Pro%20Photos%20On%20Your%20Phone%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FmgLr3Z%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fskillshare-iphone-photography-how-to-take-pro-photos-on-your-phone-hz.png%22%2C%22providerName%22%3A%22Skillshare%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png%22%2C%22institutionName%22%3A%22Skillshare%22%2C%22summary%22%3A%22This%20online%20photography%20course%20will%20teach%20you%20everything%20you%20need%20to%20be%20a%20professional%20digital%20photographer%20with%20nothing%20more%20than%20an%20iPhone%20or%20similar%20smartphone.%20You%27ll%20learn%20all%20the%20basics%20of%20professional%20iPhone%20photography%20in%20this%20course%20as%20well%20as%20plenty%20of%20tips%20and%20tricks%20that%20you%20can%20use%20during%20every%20day%20shooting%20to%20make%20your%20photos%20stand%20out%20from%20the%20rest.%22%2C%22frequency%22%3A5%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22humanities%22%5D%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Intro%20to%20Procreate%3A%20Illustrating%20on%20the%20iPad%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fskillshare.eqcm.net%5C%2F7mELrO%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fskillshare-intro-to-procreate-illustrating-on-the-ipad-hz.png%22%2C%22providerName%22%3A%22Skillshare%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png%22%2C%22institutionName%22%3A%22Skillshare%22%2C%22summary%22%3A%22In%20this%20class%20youll%20learn%20how%20to%20use%20Procreate%20on%20the%20iPad%20Pro%20with%20ease.%20By%20the%20time%20class%20is%20over%20creating%20digital%20illustrations%20will%20feel%20intuitive%20and%20natural%20as%20drawing%20with%20pencil%20and%20paper.%20Class%20covers%20all%20the%20hidden%20tools%20and%20gestures%20you%20need%20to%20make%20creating%20digital%20illustrations%20easy%20and%20fun.%20Plus%20youll%20learn%20how%20to%20make%20and%20share%20a%20cool%20time%20lapse%20video%20of%20your%20art%21%22%2C%22frequency%22%3A5%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22humanities%22%5D%7D" style="width: 100%; border: 0;"></iframe>
   </li>
 
 
@@ -6457,7 +6457,7 @@
         <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Study%20Cybersecurity%20with%20Harvard%20VPAL%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459755%5C%2F13499%22%2C%22providerName%22%3A%22GetSmarter%22%2C%22institutionName%22%3A%22Harvard%27s%20VPAL%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Finstitutions%5C%2Fharvard-vpal-hz.png%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fget-smarter-cyb-hz.png%22%2C%22summary%22%3A%22Understand%20and%20mitigate%20cyber%20risk%20by%20learning%20to%20identify%20threats%20in%20the%20Cybersecurity%20online%20course%20from%20Harvard%27s%20VPAL.%22%2C%22frequency%22%3A1%2C%22tableId%22%3A%22subjectstable%22%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Blockchain%20Essentials%20Certificate%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Ftechnology%5C%2Fblockchain-essentials%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dtech_Blockchain%2520Essentials%2520Class%2520Central%2520Ad%22%2C%22courseDate%22%3A%22Flexible%22%2C%22providerName%22%3A%22eCornell%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png%22%2C%22institutionName%22%3A%22eCornell%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fblockchain-essentials-560x315.jpg%22%2C%22summary%22%3A%22In%20this%20certificate%20program%20you%20will%20learn%20the%20mechanics%20of%20blockchain%20technology%20and%20understand%20applications%20and%20implications%20of%20blockchain%20for%20your%20business.%22%2C%22frequency%22%3A1%2C%22tableId%22%3A%22subjectstable%22%7D" style="width: 100%; border: 0;"></iframe>
   </li>
   
 
@@ -8299,7 +8299,7 @@
     <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Social%20Media%20Marketing%20Certificate%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Fmarketing%5C%2Fsocial-media-marketing%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dmktg_Social%2520Media%2520Marketing%2520Class%2520Central%2520Ad%22%2C%22courseDate%22%3A%22Flexible%22%2C%22providerName%22%3A%22eCornell%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png%22%2C%22institutionName%22%3A%22eCornell%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fsocial-media-marketing-560x315.jpg%22%2C%22summary%22%3A%22Throughout%20this%20certificate%20program%2C%20you%20will%20examine%20best%20practices%20to%20design%20a%20robust%20social%20marketing%20strategy%20and%20create%20brand-centered%20social%20content%20that%20aligns%20with%20your%20marketing%20objectives.%22%2C%22frequency%22%3A1%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22humanities%22%5D%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22More%20Learning%2C%20Less%20Searching%3A%20Best%20Courses%20Guides%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fcategory%5C%2Fbest-courses%5C%2F%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Fimages%5C%2Fmeta%5C%2Fmeta-default.png%22%2C%22providerName%22%3A%22Class%20Central%22%2C%22summary%22%3A%22Start%20learning%20now%20with%20Class%20Central%5Cu2019s%20Best%20Courses%20Guide%20%28BCGs%29.%20Using%20a%20well-defined%20methodology%20we%20pick%20the%20top%20courses%20in%20different%20topics%2C%20helping%20you%20get%20started%20right%20away.%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png%22%2C%22institutionName%22%3A%22Class%20Central%22%2C%22frequency%22%3A1%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22humanities%22%5D%7D" style="width: 100%; border: 0;"></iframe>
   </li>
 </ol>
 
@@ -8747,7 +8747,7 @@
       </a>
     </li>
     <li>
-      <a href="/cdn-cgi/l/email-protection#37084442555d5254430a7f425a56595e435e524411565a470c5558534e0a02070e001205077f425a56595e435e52441205075145525212050758595b5e5952120507545842454452441205075659531205077a787874441205075f4343474412047612057112057140404019545b5644445452594345565b1954585a1205714442555d5254431205715f425a56595e435e5244" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "Humanities" }' data-track-ga='[
+      <a href="/cdn-cgi/l/email-protection#16296563747c7375622b5e637b77787f627f736530777b662d7479726f2b23262f213324265e637b77787f627f73653324267064737333242679787a7f7873332426757963646573653324267778723324265b595955653324267e6262666533255733245033245061616138757a7765657573786264777a3875797b3324506563747c7375623324507e637b77787f627f7365" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "Humanities" }' data-track-ga='[
           { 
             "category": "Social Widget sharing by network", 
             "action": "email", 
@@ -8844,7 +8844,7 @@
     url: "",
     indexes: {"weekly":"2023_02_26","monthly":"2023_02"},
     trackImpressions: true,
-    globalProps: {"abTests":[],"deviceType":"desktop","page":"subject","user":[],"metadata":{"subject_id":34,"subject_slug":"humanities","subject_name":"Humanities"},"original_referer":"direct","created":"2023-03-02T00:00:51+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
+    globalProps: {"abTests":[],"deviceType":"desktop","page":"subject","user":[],"metadata":{"subject_id":34,"subject_slug":"humanities","subject_name":"Humanities"},"original_referer":"direct","created":"2023-03-02T01:22:51+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
   });
 
   CC.track = window.CC.Class.Analytics.track.bind(window.CC.Class.Analytics);

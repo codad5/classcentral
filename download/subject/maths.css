@@ -120,7 +120,7 @@
   window.CC = { Class: {} };
 
   if (document && document.cookie) {
-    document.cookie = "sessionId=6bb65fad5373af12914f27f89c; path=/; samesite=lax";
+    document.cookie = "sessionId=249276fa53664d6fe65a5f13ff; path=/; samesite=lax";
   }
 </script>
 
@@ -3205,7 +3205,7 @@
 <form class="search-input" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-1335887337"
+    id="autocomplete-search-618715908"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3219,7 +3219,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-1335887337"
+    aria-controls="autocomplete-search-618715908"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3244,7 +3244,7 @@
 <form class="search-input--compact" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-506331885"
+    id="autocomplete-search-653526765"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3258,7 +3258,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-506331885"
+    aria-controls="autocomplete-search-653526765"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3294,14 +3294,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cgraphic&#x20;design&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cmarketing&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;graphic&#x20;design&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;marketing&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">graphic design</span>
+                                    <span class="search-results__result-name">marketing</span>
                                 </div>
                             </button>
                                             </li>
@@ -3311,14 +3311,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201ccyber&#x20;security&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cFrench&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;cyber&#x20;security&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;French&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">cyber security</span>
+                                    <span class="search-results__result-name">French</span>
                                 </div>
                             </button>
                                             </li>
@@ -3839,7 +3839,7 @@
           
               
         <li class="catalog-filter-group">
-                    <ol class="list-no-style padding-vert-xsmall catalog-filter-group__filter-list" id="catalog-filter-976506195">
+                    <ol class="list-no-style padding-vert-xsmall catalog-filter-group__filter-list" id="catalog-filter-109206533">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -3943,7 +3943,7 @@
                 <span class="text-1 weight-semi">Level</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-1549451031">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-2105564653">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4024,7 +4024,7 @@
                 <span class="text-1 weight-semi">Duration</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-815626669">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-987324910">
                                                                                     
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4107,7 +4107,7 @@
                 <span class="text-1 weight-semi">Language</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list is-truncated" id="catalog-filter-946472244">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list is-truncated" id="catalog-filter-1213506647">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4528,7 +4528,7 @@
               class="catalog-filter-group__truncation"
               aria-hidden="true"
               data-name="CATALOG_FILTER_SHOW_ALL"
-              data-detail="&#x7B;&quot;filterId&quot;&#x3A;&quot;catalog-filter-946472244&quot;&#x7D;"
+              data-detail="&#x7B;&quot;filterId&quot;&#x3A;&quot;catalog-filter-1213506647&quot;&#x7D;"
             >
               <span class="btn-white btn-small catalog-filter-group__truncation-button">See all</span>
             </button>
@@ -4562,7 +4562,7 @@
     <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Data%20Science%20Principles%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.harvardonline.harvard.edu%5C%2Fcourse%5C%2Fdata-science-principles%3Futm_medium%3Dpaid-leads%26utm_source%3Dclass-central%26utm_campaign%3DDSRY%26utm_content%3D44980%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fho-data-science-principles.jpg%22%2C%22providerName%22%3A%22Harvard%20Online%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Finstitutions%5C%2Fharvard-online-hz.png%22%2C%22institutionName%22%3A%22Harvard%20Online%22%2C%22summary%22%3A%22This%20course%20gives%20you%20an%20overview%20of%20data%20science%20with%20a%20code-%20and%20math-free%20introduction%20to%20prediction%2C%20causality%2C%20data%20wrangling%2C%20privacy%2C%20and%20ethics.%22%2C%22frequency%22%3A1%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22maths%22%5D%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Figma%20Design%20Essentials%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FDVYAgq%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fskillshare-figma-design-essentials-hz.png%22%2C%22providerName%22%3A%22Skillshare%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png%22%2C%22institutionName%22%3A%22Skillshare%22%2C%22summary%22%3A%22Hi%20there%20-%20my%20name%20is%20Dan%20Scott%20%26%20welcome%20to%20Figma%20Essentials.%20Together%20-%20you%20and%20me%20-%20are%20going%20to%20learn%20everything%20you%20need%20to%20get%20started%20working%20as%20a%20UX%20Designer%20using%20Figma.%22%2C%22frequency%22%3A5%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22maths%22%5D%7D" style="width: 100%; border: 0;"></iframe>
   </li>
 
 
@@ -6198,7 +6198,7 @@
         <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22700%2B%20Free%20Google%20Certifications%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-google-certifications%5C%2F%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F02%5C%2Fgoogle-certs.png%22%2C%22providerName%22%3A%22Class%20Central%22%2C%22summary%22%3A%22700%2B%20free%20Google%20Classes%20with%20free%20certifications%20on%20different%20Google%20learning%20platforms.%20Topics%20include%20online%20business%2C%20digital%20marketing%2C%20Google%20analytics%2C%20and%20Google%20cloud.%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png%22%2C%22institutionName%22%3A%22Class%20Central%22%2C%22frequency%22%3A3%2C%22tableId%22%3A%22subjectstable%22%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Intro%20to%20Procreate%3A%20Illustrating%20on%20the%20iPad%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fskillshare.eqcm.net%5C%2F7mELrO%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fskillshare-intro-to-procreate-illustrating-on-the-ipad-hz.png%22%2C%22providerName%22%3A%22Skillshare%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png%22%2C%22institutionName%22%3A%22Skillshare%22%2C%22summary%22%3A%22In%20this%20class%20youll%20learn%20how%20to%20use%20Procreate%20on%20the%20iPad%20Pro%20with%20ease.%20By%20the%20time%20class%20is%20over%20creating%20digital%20illustrations%20will%20feel%20intuitive%20and%20natural%20as%20drawing%20with%20pencil%20and%20paper.%20Class%20covers%20all%20the%20hidden%20tools%20and%20gestures%20you%20need%20to%20make%20creating%20digital%20illustrations%20easy%20and%20fun.%20Plus%20youll%20learn%20how%20to%20make%20and%20share%20a%20cool%20time%20lapse%20video%20of%20your%20art%21%22%2C%22frequency%22%3A5%2C%22tableId%22%3A%22subjectstable%22%7D" style="width: 100%; border: 0;"></iframe>
   </li>
   
 
@@ -8044,7 +8044,7 @@
     <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%221000%20Hours%20of%20Free%20LinkedIn%20Learning%20Courses%20with%20Free%20Certification%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Flinkedin-learning-free-learning-paths%5C%2F%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F12%5C%2Flinked-learning-free-courses.png%22%2C%22providerName%22%3A%22Class%20Central%22%2C%22summary%22%3A%22137%20courses%20and%207%20learning%20paths%20offering%20free%20certificates%2C%20as%20well%20as%20378%20free%20courses%2C%20for%20a%20total%20of%20about%201000%20hours%20of%20free%20online%20learning.%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png%22%2C%22institutionName%22%3A%22Class%20Central%22%2C%22frequency%22%3A3%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22maths%22%5D%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Stop%20Procrastinating%2C%20Start%20Learning%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fcategory%5C%2Fbest-courses%5C%2F%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Fimages%5C%2Fmeta%5C%2Fmeta-default.png%22%2C%22providerName%22%3A%22Class%20Central%22%2C%22summary%22%3A%22Start%20learning%20now%20with%20Class%20Central%5Cu2019s%20Best%20Courses%20Guide%20%28BCGs%29.%20Using%20a%20well-defined%20methodology%20we%20pick%20the%20top%20courses%20in%20different%20topics%2C%20helping%20you%20get%20started%20right%20away.%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png%22%2C%22institutionName%22%3A%22Class%20Central%22%2C%22frequency%22%3A1%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22maths%22%5D%7D" style="width: 100%; border: 0;"></iframe>
   </li>
 </ol>
 
@@ -8492,7 +8492,7 @@
       </a>
     </li>
     <li>
-      <a href="/cdn-cgi/l/email-protection#dfe0acaabdb5babcabe292beabb7bab2beabb6bcacf9beb2afe4bdb0bba6e2edede6eefaedef92beabb7bab2beabb6bcacfaedefb9adbabafaedefb0b1b3b6b1bafaedefbcb0aaadacbaacfaedefbeb1bbfaedef9290909cacfaedefb7ababafacfaec9efaed99faed99a8a8a8f1bcb3beacacbcbab1abadbeb3f1bcb0b2faed99acaabdb5babcabfaed99b2beabb7ac" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "Mathematics" }' data-track-ga='[
+      <a href="/cdn-cgi/l/email-protection#58672b2d3a323d3b2c6515392c303d35392c313b2b7e393528633a373c21656a6a61697d6a6815392c303d35392c313b2b7d6a683e2a3d3d7d6a6837363431363d7d6a683b372d2a2b3d2b7d6a6839363c7d6a681517171b2b7d6a68302c2c282b7d6b197d6a1e7d6a1e2f2f2f763b34392b2b3b3d362c2a3934763b37357d6a1e2b2d3a323d3b2c7d6a1e35392c302b" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "Mathematics" }' data-track-ga='[
           { 
             "category": "Social Widget sharing by network", 
             "action": "email", 
@@ -8589,7 +8589,7 @@
     url: "",
     indexes: {"weekly":"2023_02_26","monthly":"2023_02"},
     trackImpressions: true,
-    globalProps: {"abTests":[],"deviceType":"desktop","page":"subject","user":[],"metadata":{"subject_id":7,"subject_slug":"maths","subject_name":"Mathematics"},"original_referer":"direct","created":"2023-03-01T23:56:06+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
+    globalProps: {"abTests":[],"deviceType":"desktop","page":"subject","user":[],"metadata":{"subject_id":7,"subject_slug":"maths","subject_name":"Mathematics"},"original_referer":"direct","created":"2023-03-02T01:19:55+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
   });
 
   CC.track = window.CC.Class.Analytics.track.bind(window.CC.Class.Analytics);

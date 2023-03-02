@@ -120,7 +120,7 @@
   window.CC = { Class: {} };
 
   if (document && document.cookie) {
-    document.cookie = "sessionId=145ea76cf7ed1fbffb10c031c3; path=/; samesite=lax";
+    document.cookie = "sessionId=7d88c96b02cc705d1ca2165df2; path=/; samesite=lax";
   }
 </script>
 
@@ -3205,7 +3205,7 @@
 <form class="search-input" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-1825783072"
+    id="autocomplete-search-1227133533"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3219,7 +3219,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-1825783072"
+    aria-controls="autocomplete-search-1227133533"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3244,7 +3244,7 @@
 <form class="search-input--compact" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-1944519882"
+    id="autocomplete-search-2055330667"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3258,7 +3258,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-1944519882"
+    aria-controls="autocomplete-search-2055330667"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3294,14 +3294,31 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cjavascript&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cjava&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;javascript&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;java&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">javascript</span>
+                                    <span class="search-results__result-name">java</span>
+                                </div>
+                            </button>
+                                            </li>
+                                    <li>
+                                                                                                
+                                                                                                                                    
+                        
+                                                    <button
+                                class="search-results__result js-autocomplete-result"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cpsychology&#x5C;u201d&quot;&#x7D;"
+                                type="button"
+                                data-name="SUGGESTED_SEARCH_TERM"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;psychology&quot;&#x7D;"
+                            >
+                                <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
+                                <div class="search-results__result-info">
+                                    <span class="search-results__result-name">psychology</span>
                                 </div>
                             </button>
                                             </li>
@@ -3319,23 +3336,6 @@
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
                                     <span class="search-results__result-name">project management</span>
-                                </div>
-                            </button>
-                                            </li>
-                                    <li>
-                                                                                                
-                                                                                                                                    
-                        
-                                                    <button
-                                class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cFrench&#x5C;u201d&quot;&#x7D;"
-                                type="button"
-                                data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;French&quot;&#x7D;"
-                            >
-                                <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
-                                <div class="search-results__result-info">
-                                    <span class="search-results__result-name">French</span>
                                 </div>
                             </button>
                                             </li>
@@ -3680,7 +3680,7 @@
                 weight-bold
                 margin-left-xsmall              "
             >
-                              19,591 courses               
+                              19,596 courses               
             </span>
                   </div>
           </div>
@@ -3771,7 +3771,7 @@
 
   <div class="catalog-grid__sorting bg-gray-xxlight">
     <div class="medium-down-hidden" data-template="filters-count">
-      <span class="text-2">Showing <span class="weight-bold">19,591 courses</span></span>
+      <span class="text-2">Showing <span class="weight-bold">19,596 courses</span></span>
    
 </div>
 
@@ -3839,7 +3839,7 @@
           
               
         <li class="catalog-filter-group">
-                    <ol class="list-no-style padding-vert-xsmall catalog-filter-group__filter-list" id="catalog-filter-1287805044">
+                    <ol class="list-no-style padding-vert-xsmall catalog-filter-group__filter-list" id="catalog-filter-2112385725">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -3943,7 +3943,7 @@
                 <span class="text-1 weight-semi">Level</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-590979280">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-894765061">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4024,7 +4024,7 @@
                 <span class="text-1 weight-semi">Duration</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-824897494">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-34063238">
                                                                                     
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4107,7 +4107,7 @@
                 <span class="text-1 weight-semi">Language</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list is-truncated" id="catalog-filter-107861743">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list is-truncated" id="catalog-filter-1972154348">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4804,7 +4804,7 @@
               class="catalog-filter-group__truncation"
               aria-hidden="true"
               data-name="CATALOG_FILTER_SHOW_ALL"
-              data-detail="&#x7B;&quot;filterId&quot;&#x3A;&quot;catalog-filter-107861743&quot;&#x7D;"
+              data-detail="&#x7B;&quot;filterId&quot;&#x3A;&quot;catalog-filter-1972154348&quot;&#x7D;"
             >
               <span class="btn-white btn-small catalog-filter-group__truncation-button">See all</span>
             </button>
@@ -4838,7 +4838,7 @@
     <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22700%2B%20Free%20Google%20Certifications%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-google-certifications%5C%2F%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F02%5C%2Fgoogle-certs.png%22%2C%22providerName%22%3A%22Class%20Central%22%2C%22summary%22%3A%22700%2B%20free%20Google%20Classes%20with%20free%20certifications%20on%20different%20Google%20learning%20platforms.%20Topics%20include%20online%20business%2C%20digital%20marketing%2C%20Google%20analytics%2C%20and%20Google%20cloud.%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png%22%2C%22institutionName%22%3A%22Class%20Central%22%2C%22frequency%22%3A3%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22business%22%5D%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%221000%20Ivy%20League%20Free%20Online%20Courses%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Fcollection%5C%2Fivy-league-moocs%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Fimages%5C%2Fcollections%5C%2Fcollection-ivy-league-moocs-social.jpg%22%2C%22providerName%22%3A%22Class%20Central%22%2C%22summary%22%3A%22Free%20online%20courses%20from%20Brown%2C%20Columbia%2C%20Cornell%2C%20Dartmouth%2C%20Harvard%2C%20Penn%2C%20Princeton%2C%20and%20Yale.%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png%22%2C%22institutionName%22%3A%22Class%20Central%22%2C%22frequency%22%3A3%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22business%22%5D%7D" style="width: 100%; border: 0;"></iframe>
   </li>
 
 
@@ -6494,7 +6494,7 @@
         <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Class%20Central%5Cu2019s%20Best%20Courses%20Guides%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fcategory%5C%2Fbest-courses%5C%2F%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Fimages%5C%2Fmeta%5C%2Fmeta-default.png%22%2C%22providerName%22%3A%22Class%20Central%22%2C%22summary%22%3A%22Start%20learning%20now%20with%20Class%20Central%5Cu2019s%20Best%20Courses%20Guide%20%28BCGs%29.%20Using%20a%20well-defined%20methodology%20we%20pick%20the%20top%20courses%20in%20different%20topics%2C%20helping%20you%20get%20started%20right%20away.%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png%22%2C%22institutionName%22%3A%22Class%20Central%22%2C%22frequency%22%3A1%2C%22tableId%22%3A%22subjectstable%22%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Data%20Science%20with%20SQL%20and%20Tableau%20Certificate%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Fdata-science%5C%2Fdata-science-with-sql-and-tableau%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Ddatascience_Data%2520Science%2520with%2520SQL%2520and%2520Tableau%2520Class%2520Central%2520Ad%22%2C%22courseDate%22%3A%22Flexible%22%2C%22providerName%22%3A%22eCornell%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png%22%2C%22institutionName%22%3A%22eCornell%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fdata-science-with-sql-and-tableau-560x315.jpg%22%2C%22summary%22%3A%22This%20certificate%20program%20is%20designed%20to%20help%20you%20analyze%20data%20in%20a%20relational%20database%20and%20develop%20your%20understanding%20of%20the%20relationship%20between%20SQL%20and%20data%20visualizations.%22%2C%22frequency%22%3A1%2C%22tableId%22%3A%22subjectstable%22%7D" style="width: 100%; border: 0;"></iframe>
   </li>
   
 
@@ -8328,7 +8328,7 @@
     <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22How%20to%20Organize%20your%20your%20Workflow%20to%20Maximize%20Productivity%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FYgX4Gq%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fskillshare-how-to-organize-your-your-workflow-to-maximize-productivity-hz.png%22%2C%22providerName%22%3A%22Skillshare%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png%22%2C%22institutionName%22%3A%22Skillshare%22%2C%22summary%22%3A%22In%20this%20second%20class%20of%20my%20series%20on%20improving%20our%20personal%20productivity%20I%20want%20to%20further%20explore%20the%20systems%2C%20workflows%20and%20organization%20techniques%20we%20can%20use%20to%20maximize%20our%20output.%22%2C%22frequency%22%3A5%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22business%22%5D%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Figma%20Design%20Essentials%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FDVYAgq%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fskillshare-figma-design-essentials-hz.png%22%2C%22providerName%22%3A%22Skillshare%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png%22%2C%22institutionName%22%3A%22Skillshare%22%2C%22summary%22%3A%22Hi%20there%20-%20my%20name%20is%20Dan%20Scott%20%26%20welcome%20to%20Figma%20Essentials.%20Together%20-%20you%20and%20me%20-%20are%20going%20to%20learn%20everything%20you%20need%20to%20get%20started%20working%20as%20a%20UX%20Designer%20using%20Figma.%22%2C%22frequency%22%3A5%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22business%22%5D%7D" style="width: 100%; border: 0;"></iframe>
   </li>
 </ol>
 
@@ -8776,7 +8776,7 @@
       </a>
     </li>
     <li>
-      <a href="/cdn-cgi/l/email-protection#47783432252d2224337a0532342e2922343461262a377c2528233e7a76777777776275770532342e292234346275772135222262757728292b2e2922627577242832353422346275772629236275770a080804346275772f3333373462740662750162750130303069242b2634342422293335262b6924282a6275013432252d2224336275012532342e29223434" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "Business" }' data-track-ga='[
+      <a href="/cdn-cgi/l/email-protection#5a65292f38303f392e67182f2933343f29297c3b372a6138353e23676b6a6a6a6a7f686a182f2933343f29297f686a3c283f3f7f686a35343633343f7f686a39352f28293f297f686a3b343e7f686a17151519297f686a322e2e2a297f691b7f681c7f681c2d2d2d7439363b2929393f342e283b36743935377f681c292f38303f392e7f681c382f2933343f2929" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "Business" }' data-track-ga='[
           { 
             "category": "Social Widget sharing by network", 
             "action": "email", 
@@ -8873,7 +8873,7 @@
     url: "",
     indexes: {"weekly":"2023_02_26","monthly":"2023_02"},
     trackImpressions: true,
-    globalProps: {"abTests":[],"deviceType":"desktop","page":"subject","user":[],"metadata":{"subject_id":15,"subject_slug":"business","subject_name":"Business"},"original_referer":"direct","created":"2023-03-01T23:57:49+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
+    globalProps: {"abTests":[],"deviceType":"desktop","page":"subject","user":[],"metadata":{"subject_id":15,"subject_slug":"business","subject_name":"Business"},"original_referer":"direct","created":"2023-03-02T01:21:20+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
   });
 
   CC.track = window.CC.Class.Analytics.track.bind(window.CC.Class.Analytics);

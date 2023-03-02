@@ -120,7 +120,7 @@
   window.CC = { Class: {} };
 
   if (document && document.cookie) {
-    document.cookie = "sessionId=21f4de157ea1e9b58f057ef41f; path=/; samesite=lax";
+    document.cookie = "sessionId=c122e05556064e76bef1770ffe; path=/; samesite=lax";
   }
 </script>
 
@@ -3205,7 +3205,7 @@
 <form class="search-input" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-1660907110"
+    id="autocomplete-search-3393100"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3219,7 +3219,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-1660907110"
+    aria-controls="autocomplete-search-3393100"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3244,7 +3244,7 @@
 <form class="search-input--compact" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-205248763"
+    id="autocomplete-search-347052118"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3258,7 +3258,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-205248763"
+    aria-controls="autocomplete-search-347052118"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3294,31 +3294,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201chacking&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cgraphic&#x20;design&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;hacking&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;graphic&#x20;design&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">hacking</span>
-                                </div>
-                            </button>
-                                            </li>
-                                    <li>
-                                                                                                
-                                                                                                                                    
-                        
-                                                    <button
-                                class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201charvard&#x5C;u201d&quot;&#x7D;"
-                                type="button"
-                                data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;harvard&quot;&#x7D;"
-                            >
-                                <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
-                                <div class="search-results__result-info">
-                                    <span class="search-results__result-name">harvard</span>
+                                    <span class="search-results__result-name">graphic design</span>
                                 </div>
                             </button>
                                             </li>
@@ -3336,6 +3319,23 @@
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
                                     <span class="search-results__result-name">web development</span>
+                                </div>
+                            </button>
+                                            </li>
+                                    <li>
+                                                                                                
+                                                                                                                                    
+                        
+                                                    <button
+                                class="search-results__result js-autocomplete-result"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cmachine&#x20;learning&#x5C;u201d&quot;&#x7D;"
+                                type="button"
+                                data-name="SUGGESTED_SEARCH_TERM"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;machine&#x20;learning&quot;&#x7D;"
+                            >
+                                <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
+                                <div class="search-results__result-info">
+                                    <span class="search-results__result-name">machine learning</span>
                                 </div>
                             </button>
                                             </li>
@@ -3839,7 +3839,7 @@
           
               
         <li class="catalog-filter-group">
-                    <ol class="list-no-style padding-vert-xsmall catalog-filter-group__filter-list" id="catalog-filter-1808705210">
+                    <ol class="list-no-style padding-vert-xsmall catalog-filter-group__filter-list" id="catalog-filter-425899878">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -3943,7 +3943,7 @@
                 <span class="text-1 weight-semi">Level</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-1951528726">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-144939480">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4024,7 +4024,7 @@
                 <span class="text-1 weight-semi">Duration</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-183844688">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-452508420">
                                                                                     
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4107,7 +4107,7 @@
                 <span class="text-1 weight-semi">Language</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list is-truncated" id="catalog-filter-441197316">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list is-truncated" id="catalog-filter-2020575661">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -5034,7 +5034,7 @@
               class="catalog-filter-group__truncation"
               aria-hidden="true"
               data-name="CATALOG_FILTER_SHOW_ALL"
-              data-detail="&#x7B;&quot;filterId&quot;&#x3A;&quot;catalog-filter-441197316&quot;&#x7D;"
+              data-detail="&#x7B;&quot;filterId&quot;&#x3A;&quot;catalog-filter-2020575661&quot;&#x7D;"
             >
               <span class="btn-white btn-small catalog-filter-group__truncation-button">See all</span>
             </button>
@@ -5068,7 +5068,7 @@
     <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22How%20to%20Organize%20your%20your%20Workflow%20to%20Maximize%20Productivity%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FYgX4Gq%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fskillshare-how-to-organize-your-your-workflow-to-maximize-productivity-hz.png%22%2C%22providerName%22%3A%22Skillshare%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png%22%2C%22institutionName%22%3A%22Skillshare%22%2C%22summary%22%3A%22In%20this%20second%20class%20of%20my%20series%20on%20improving%20our%20personal%20productivity%20I%20want%20to%20further%20explore%20the%20systems%2C%20workflows%20and%20organization%20techniques%20we%20can%20use%20to%20maximize%20our%20output.%22%2C%22frequency%22%3A5%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22health%22%5D%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22iPhone%20Photography%3A%20How%20to%20Take%20Pro%20Photos%20On%20Your%20Phone%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FmgLr3Z%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fskillshare-iphone-photography-how-to-take-pro-photos-on-your-phone-hz.png%22%2C%22providerName%22%3A%22Skillshare%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png%22%2C%22institutionName%22%3A%22Skillshare%22%2C%22summary%22%3A%22This%20online%20photography%20course%20will%20teach%20you%20everything%20you%20need%20to%20be%20a%20professional%20digital%20photographer%20with%20nothing%20more%20than%20an%20iPhone%20or%20similar%20smartphone.%20You%27ll%20learn%20all%20the%20basics%20of%20professional%20iPhone%20photography%20in%20this%20course%20as%20well%20as%20plenty%20of%20tips%20and%20tricks%20that%20you%20can%20use%20during%20every%20day%20shooting%20to%20make%20your%20photos%20stand%20out%20from%20the%20rest.%22%2C%22frequency%22%3A5%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22health%22%5D%7D" style="width: 100%; border: 0;"></iframe>
   </li>
 
 
@@ -6707,7 +6707,7 @@ You will learn about current prog…
         <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Intro%20to%20Procreate%3A%20Illustrating%20on%20the%20iPad%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fskillshare.eqcm.net%5C%2F7mELrO%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fskillshare-intro-to-procreate-illustrating-on-the-ipad-hz.png%22%2C%22providerName%22%3A%22Skillshare%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png%22%2C%22institutionName%22%3A%22Skillshare%22%2C%22summary%22%3A%22In%20this%20class%20youll%20learn%20how%20to%20use%20Procreate%20on%20the%20iPad%20Pro%20with%20ease.%20By%20the%20time%20class%20is%20over%20creating%20digital%20illustrations%20will%20feel%20intuitive%20and%20natural%20as%20drawing%20with%20pencil%20and%20paper.%20Class%20covers%20all%20the%20hidden%20tools%20and%20gestures%20you%20need%20to%20make%20creating%20digital%20illustrations%20easy%20and%20fun.%20Plus%20youll%20learn%20how%20to%20make%20and%20share%20a%20cool%20time%20lapse%20video%20of%20your%20art%21%22%2C%22frequency%22%3A5%2C%22tableId%22%3A%22subjectstable%22%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Class%20Central%5Cu2019s%20Best%20Courses%20Guides%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fcategory%5C%2Fbest-courses%5C%2F%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Fimages%5C%2Fmeta%5C%2Fmeta-default.png%22%2C%22providerName%22%3A%22Class%20Central%22%2C%22summary%22%3A%22Start%20learning%20now%20with%20Class%20Central%5Cu2019s%20Best%20Courses%20Guide%20%28BCGs%29.%20Using%20a%20well-defined%20methodology%20we%20pick%20the%20top%20courses%20in%20different%20topics%2C%20helping%20you%20get%20started%20right%20away.%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png%22%2C%22institutionName%22%3A%22Class%20Central%22%2C%22frequency%22%3A1%2C%22tableId%22%3A%22subjectstable%22%7D" style="width: 100%; border: 0;"></iframe>
   </li>
   
 
@@ -8565,7 +8565,7 @@ You will learn about current prog…
     <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Intro%20to%20Procreate%3A%20Illustrating%20on%20the%20iPad%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fskillshare.eqcm.net%5C%2F7mELrO%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fskillshare-intro-to-procreate-illustrating-on-the-ipad-hz.png%22%2C%22providerName%22%3A%22Skillshare%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png%22%2C%22institutionName%22%3A%22Skillshare%22%2C%22summary%22%3A%22In%20this%20class%20youll%20learn%20how%20to%20use%20Procreate%20on%20the%20iPad%20Pro%20with%20ease.%20By%20the%20time%20class%20is%20over%20creating%20digital%20illustrations%20will%20feel%20intuitive%20and%20natural%20as%20drawing%20with%20pencil%20and%20paper.%20Class%20covers%20all%20the%20hidden%20tools%20and%20gestures%20you%20need%20to%20make%20creating%20digital%20illustrations%20easy%20and%20fun.%20Plus%20youll%20learn%20how%20to%20make%20and%20share%20a%20cool%20time%20lapse%20video%20of%20your%20art%21%22%2C%22frequency%22%3A5%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22health%22%5D%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22700%2B%20Free%20Google%20Certifications%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-google-certifications%5C%2F%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F02%5C%2Fgoogle-certs.png%22%2C%22providerName%22%3A%22Class%20Central%22%2C%22summary%22%3A%22700%2B%20free%20Google%20Classes%20with%20free%20certifications%20on%20different%20Google%20learning%20platforms.%20Topics%20include%20online%20business%2C%20digital%20marketing%2C%20Google%20analytics%2C%20and%20Google%20cloud.%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png%22%2C%22institutionName%22%3A%22Class%20Central%22%2C%22frequency%22%3A3%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22health%22%5D%7D" style="width: 100%; border: 0;"></iframe>
   </li>
 </ol>
 
@@ -9013,7 +9013,7 @@ You will learn about current prog…
       </a>
     </li>
     <li>
-      <a href="/cdn-cgi/l/email-protection#506f2325323a3533246d1835313c24387562607562667562601d35343933393e3576313d206b323f34296d636768647562601835313c24387562607562667562601d35343933393e35756260362235357562603f3e3c393e35756260333f2522233523756260313e347562601d1f1f132375626038242420237563117562167562162727277e333c31232333353e2422313c7e333f3d7562162325323a3533247562163835313c2438" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "Health &amp; Medicine" }' data-track-ga='[
+      <a href="/cdn-cgi/l/email-protection#e9d69a9c8b838c8a9dd4a18c88859d81ccdbd9ccdbdfccdbd9a48c8d808a80878ccf888499d28b868d90d4daded1ddccdbd9a18c88859d81ccdbd9ccdbdfccdbd9a48c8d808a80878cccdbd98f9b8c8cccdbd986878580878cccdbd98a869c9b9a8c9accdbd988878dccdbd9a4a6a6aa9accdbd9819d9d999accdaa8ccdbafccdbaf9e9e9ec78a85889a9a8a8c879d9b8885c78a8684ccdbaf9a9c8b838c8a9dccdbaf818c88859d81" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "Health &amp; Medicine" }' data-track-ga='[
           { 
             "category": "Social Widget sharing by network", 
             "action": "email", 
@@ -9110,7 +9110,7 @@ You will learn about current prog…
     url: "",
     indexes: {"weekly":"2023_02_26","monthly":"2023_02"},
     trackImpressions: true,
-    globalProps: {"abTests":[],"deviceType":"desktop","page":"subject","user":[],"metadata":{"subject_id":5,"subject_slug":"health","subject_name":"Health & Medicine"},"original_referer":"direct","created":"2023-03-01T23:54:18+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
+    globalProps: {"abTests":[],"deviceType":"desktop","page":"subject","user":[],"metadata":{"subject_id":5,"subject_slug":"health","subject_name":"Health & Medicine"},"original_referer":"direct","created":"2023-03-02T01:18:30+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
   });
 
   CC.track = window.CC.Class.Analytics.track.bind(window.CC.Class.Analytics);

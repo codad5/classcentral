@@ -120,7 +120,7 @@
   window.CC = { Class: {} };
 
   if (document && document.cookie) {
-    document.cookie = "sessionId=24798c21249c86cfc64363717b; path=/; samesite=lax";
+    document.cookie = "sessionId=250144c2f1fad3138309e3fcf1; path=/; samesite=lax";
   }
 </script>
 
@@ -3205,7 +3205,7 @@
 <form class="search-input" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-646662052"
+    id="autocomplete-search-605554264"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3219,7 +3219,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-646662052"
+    aria-controls="autocomplete-search-605554264"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3244,7 +3244,7 @@
 <form class="search-input--compact" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-1049438709"
+    id="autocomplete-search-2305849"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3258,7 +3258,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-1049438709"
+    aria-controls="autocomplete-search-2305849"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3294,14 +3294,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201claw&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201chacking&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;law&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;hacking&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">law</span>
+                                    <span class="search-results__result-name">hacking</span>
                                 </div>
                             </button>
                                             </li>
@@ -3311,14 +3311,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cFrench&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cjavascript&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;French&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;javascript&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">French</span>
+                                    <span class="search-results__result-name">javascript</span>
                                 </div>
                             </button>
                                             </li>
@@ -3328,14 +3328,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201ctrading&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201charvard&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;trading&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;harvard&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">trading</span>
+                                    <span class="search-results__result-name">harvard</span>
                                 </div>
                             </button>
                                             </li>
@@ -3839,7 +3839,7 @@
           
               
         <li class="catalog-filter-group">
-                    <ol class="list-no-style padding-vert-xsmall catalog-filter-group__filter-list" id="catalog-filter-1381123835">
+                    <ol class="list-no-style padding-vert-xsmall catalog-filter-group__filter-list" id="catalog-filter-1738757086">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -3943,7 +3943,7 @@
                 <span class="text-1 weight-semi">Level</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-244722308">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-70120436">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4024,7 +4024,7 @@
                 <span class="text-1 weight-semi">Duration</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-414836664">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-67693524">
                                                                                     
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4107,7 +4107,7 @@
                 <span class="text-1 weight-semi">Language</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list is-truncated" id="catalog-filter-1871865453">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list is-truncated" id="catalog-filter-901714824">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4643,7 +4643,7 @@
               class="catalog-filter-group__truncation"
               aria-hidden="true"
               data-name="CATALOG_FILTER_SHOW_ALL"
-              data-detail="&#x7B;&quot;filterId&quot;&#x3A;&quot;catalog-filter-1871865453&quot;&#x7D;"
+              data-detail="&#x7B;&quot;filterId&quot;&#x3A;&quot;catalog-filter-901714824&quot;&#x7D;"
             >
               <span class="btn-white btn-small catalog-filter-group__truncation-button">See all</span>
             </button>
@@ -4677,7 +4677,7 @@
     <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Data%20Science%20Principles%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.harvardonline.harvard.edu%5C%2Fcourse%5C%2Fdata-science-principles%3Futm_medium%3Dpaid-leads%26utm_source%3Dclass-central%26utm_campaign%3DDSRY%26utm_content%3D44980%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fho-data-science-principles.jpg%22%2C%22providerName%22%3A%22Harvard%20Online%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Finstitutions%5C%2Fharvard-online-hz.png%22%2C%22institutionName%22%3A%22Harvard%20Online%22%2C%22summary%22%3A%22This%20course%20gives%20you%20an%20overview%20of%20data%20science%20with%20a%20code-%20and%20math-free%20introduction%20to%20prediction%2C%20causality%2C%20data%20wrangling%2C%20privacy%2C%20and%20ethics.%22%2C%22frequency%22%3A1%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22social-sciences%22%5D%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Class%20Central%5Cu2019s%20Best%20Courses%20Guides%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fcategory%5C%2Fbest-courses%5C%2F%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Fimages%5C%2Fmeta%5C%2Fmeta-default.png%22%2C%22providerName%22%3A%22Class%20Central%22%2C%22summary%22%3A%22Start%20learning%20now%20with%20Class%20Central%5Cu2019s%20Best%20Courses%20Guide%20%28BCGs%29.%20Using%20a%20well-defined%20methodology%20we%20pick%20the%20top%20courses%20in%20different%20topics%2C%20helping%20you%20get%20started%20right%20away.%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png%22%2C%22institutionName%22%3A%22Class%20Central%22%2C%22frequency%22%3A1%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22social-sciences%22%5D%7D" style="width: 100%; border: 0;"></iframe>
   </li>
 
 
@@ -6339,7 +6339,7 @@
         <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Become%20a%20data%20scientist%20or%20your%20money%20back.%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.springboard.com%5C%2Fcourses%5C%2Ffoundations-to-core-data-science%5C%2F%3Futm_source%3Dclasscentral%26utm_medium%3Daffiliates%26utm_campaign%3Dclasscentral2022%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fspringboard-data-science-hz.png%22%2C%22providerName%22%3A%22Springboard%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Finstitutions%5C%2Fspringboard-hz.png%22%2C%22institutionName%22%3A%22Springboard%22%2C%22summary%22%3A%22Dreaming%20of%20a%20fulfilling%2C%20well-paid%20data%20science%20career%3F%20Become%20a%20data%20scientist%20with%20no%20previous%20data%20experience%20in%20this%20remote%20bootcamp.%20Our%20on-demand%20curriculum%2C%201%3A1%20mentorship%20and%20career%20coaching%20will%20land%20your%20dream%20job%20or%20your%20money%20back.%20%22%2C%22frequency%22%3A2%2C%22tableId%22%3A%22subjectstable%22%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22How%20to%20Organize%20your%20your%20Workflow%20to%20Maximize%20Productivity%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FYgX4Gq%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fskillshare-how-to-organize-your-your-workflow-to-maximize-productivity-hz.png%22%2C%22providerName%22%3A%22Skillshare%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png%22%2C%22institutionName%22%3A%22Skillshare%22%2C%22summary%22%3A%22In%20this%20second%20class%20of%20my%20series%20on%20improving%20our%20personal%20productivity%20I%20want%20to%20further%20explore%20the%20systems%2C%20workflows%20and%20organization%20techniques%20we%20can%20use%20to%20maximize%20our%20output.%22%2C%22frequency%22%3A5%2C%22tableId%22%3A%22subjectstable%22%7D" style="width: 100%; border: 0;"></iframe>
   </li>
   
 
@@ -8180,7 +8180,7 @@ Digital technology has not only revolutionized society, but also the way we can 
     <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%221000%20Hours%20of%20Free%20LinkedIn%20Learning%20Courses%20with%20Free%20Certification%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Flinkedin-learning-free-learning-paths%5C%2F%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F12%5C%2Flinked-learning-free-courses.png%22%2C%22providerName%22%3A%22Class%20Central%22%2C%22summary%22%3A%22137%20courses%20and%207%20learning%20paths%20offering%20free%20certificates%2C%20as%20well%20as%20378%20free%20courses%2C%20for%20a%20total%20of%20about%201000%20hours%20of%20free%20online%20learning.%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png%22%2C%22institutionName%22%3A%22Class%20Central%22%2C%22frequency%22%3A3%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22social-sciences%22%5D%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Figma%20Design%20Essentials%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FDVYAgq%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fskillshare-figma-design-essentials-hz.png%22%2C%22providerName%22%3A%22Skillshare%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png%22%2C%22institutionName%22%3A%22Skillshare%22%2C%22summary%22%3A%22Hi%20there%20-%20my%20name%20is%20Dan%20Scott%20%26%20welcome%20to%20Figma%20Essentials.%20Together%20-%20you%20and%20me%20-%20are%20going%20to%20learn%20everything%20you%20need%20to%20get%20started%20working%20as%20a%20UX%20Designer%20using%20Figma.%22%2C%22frequency%22%3A5%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22social-sciences%22%5D%7D" style="width: 100%; border: 0;"></iframe>
   </li>
 </ol>
 
@@ -8628,7 +8628,7 @@ Digital technology has not only revolutionized society, but also the way we can 
       </a>
     </li>
     <li>
-      <a href="/cdn-cgi/l/email-protection#b38cc0c6d1d9d6d0c78ee0dcd0dad2df968183e0d0dad6ddd0d6c095d2dec388d1dcd7ca8e80878b84968183e0dcd0dad2df968183e0d0dad6ddd0d6c0968183d5c1d6d6968183dcdddfdaddd6968183d0dcc6c1c0d6c0968183d2ddd7968183fefcfcf0c0968183dbc7c7c3c09680f29681f59681f5c4c4c49dd0dfd2c0c0d0d6ddc7c1d2df9dd0dcde9681f5c0c6d1d9d6d0c79681f5c0dcd0dad2df9ec0d0dad6ddd0d6c0" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "Social Sciences" }' data-track-ga='[
+      <a href="/cdn-cgi/l/email-protection#d1eea2a4b3bbb4b2a5ec82beb2b8b0bdf4e3e182b2b8b4bfb2b4a2f7b0bca1eab3beb5a8ece2e5e9e6f4e3e182beb2b8b0bdf4e3e182b2b8b4bfb2b4a2f4e3e1b7a3b4b4f4e3e1bebfbdb8bfb4f4e3e1b2bea4a3a2b4a2f4e3e1b0bfb5f4e3e19c9e9e92a2f4e3e1b9a5a5a1a2f4e290f4e397f4e397a6a6a6ffb2bdb0a2a2b2b4bfa5a3b0bdffb2bebcf4e397a2a4b3bbb4b2a5f4e397a2beb2b8b0bdfca2b2b8b4bfb2b4a2" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "Social Sciences" }' data-track-ga='[
           { 
             "category": "Social Widget sharing by network", 
             "action": "email", 
@@ -8725,7 +8725,7 @@ Digital technology has not only revolutionized society, but also the way we can 
     url: "",
     indexes: {"weekly":"2023_02_26","monthly":"2023_02"},
     trackImpressions: true,
-    globalProps: {"abTests":[],"deviceType":"desktop","page":"subject","user":[],"metadata":{"subject_id":54,"subject_slug":"social-sciences","subject_name":"Social Sciences"},"original_referer":"direct","created":"2023-03-02T00:09:53+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"NL","name":"Netherlands"},"city":{"name":"Amsterdam"},"location":{"accuracy_radius":500,"latitude":52.3534,"longitude":4.9087,"time_zone":"Europe\/Amsterdam"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
+    globalProps: {"abTests":[],"deviceType":"desktop","page":"subject","user":[],"metadata":{"subject_id":54,"subject_slug":"social-sciences","subject_name":"Social Sciences"},"original_referer":"direct","created":"2023-03-02T01:29:23+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"NL","name":"Netherlands"},"city":{"name":"Amsterdam"},"location":{"accuracy_radius":500,"latitude":52.3534,"longitude":4.9087,"time_zone":"Europe\/Amsterdam"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
   });
 
   CC.track = window.CC.Class.Analytics.track.bind(window.CC.Class.Analytics);
