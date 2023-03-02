@@ -12,6 +12,9 @@
             "email": "aniezeoformic@gmail.com"
         }
     ],
+    "config": {
+        "process-timeout":0
+    },
     "scripts": {
         "scrape":"php ./scrape"
     },

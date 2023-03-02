@@ -120,7 +120,7 @@
   window.CC = { Class: {} };
 
   if (document && document.cookie) {
-    document.cookie = "sessionId=91fee7a06c710a64e6fc1b3eae; path=/; samesite=lax";
+    document.cookie = "sessionId=5d04e500c5e976defe31217580; path=/; samesite=lax";
   }
 </script>
 
@@ -3205,7 +3205,7 @@
 <form class="search-input" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-1243509533"
+    id="autocomplete-search-386172298"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3219,7 +3219,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-1243509533"
+    aria-controls="autocomplete-search-386172298"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3244,7 +3244,7 @@
 <form class="search-input--compact" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-846339071"
+    id="autocomplete-search-776633572"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3258,7 +3258,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-846339071"
+    aria-controls="autocomplete-search-776633572"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3294,14 +3294,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cjava&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201csql&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;java&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;sql&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">java</span>
+                                    <span class="search-results__result-name">sql</span>
                                 </div>
                             </button>
                                             </li>
@@ -3311,14 +3311,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cpsychology&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cgraphic&#x20;design&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;psychology&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;graphic&#x20;design&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">psychology</span>
+                                    <span class="search-results__result-name">graphic design</span>
                                 </div>
                             </button>
                                             </li>
@@ -3328,14 +3328,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cflutter&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cFrench&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;flutter&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;French&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">flutter</span>
+                                    <span class="search-results__result-name">French</span>
                                 </div>
                             </button>
                                             </li>
@@ -3839,7 +3839,7 @@
           
               
         <li class="catalog-filter-group">
-                    <ol class="list-no-style padding-vert-xsmall catalog-filter-group__filter-list" id="catalog-filter-1694564182">
+                    <ol class="list-no-style padding-vert-xsmall catalog-filter-group__filter-list" id="catalog-filter-961890840">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -3943,7 +3943,7 @@
                 <span class="text-1 weight-semi">Level</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-1354157668">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-104873558">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4024,7 +4024,7 @@
                 <span class="text-1 weight-semi">Duration</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-1244565072">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-265583232">
                                                                                     
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4107,7 +4107,7 @@
                 <span class="text-1 weight-semi">Language</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list is-truncated" id="catalog-filter-195331504">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list is-truncated" id="catalog-filter-222131084">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4712,7 +4712,7 @@
               class="catalog-filter-group__truncation"
               aria-hidden="true"
               data-name="CATALOG_FILTER_SHOW_ALL"
-              data-detail="&#x7B;&quot;filterId&quot;&#x3A;&quot;catalog-filter-195331504&quot;&#x7D;"
+              data-detail="&#x7B;&quot;filterId&quot;&#x3A;&quot;catalog-filter-222131084&quot;&#x7D;"
             >
               <span class="btn-white btn-small catalog-filter-group__truncation-button">See all</span>
             </button>
@@ -4746,7 +4746,7 @@
     <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%221000%20Ivy%20League%20Free%20Online%20Courses%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Fcollection%5C%2Fivy-league-moocs%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Fimages%5C%2Fcollections%5C%2Fcollection-ivy-league-moocs-social.jpg%22%2C%22providerName%22%3A%22Class%20Central%22%2C%22summary%22%3A%22Free%20online%20courses%20from%20Brown%2C%20Columbia%2C%20Cornell%2C%20Dartmouth%2C%20Harvard%2C%20Penn%2C%20Princeton%2C%20and%20Yale.%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png%22%2C%22institutionName%22%3A%22Class%20Central%22%2C%22frequency%22%3A3%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22science%22%5D%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Massive%20List%20of%20Thousands%20of%20Free%20Certificates%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-certificates%5C%2F%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F12%5C%2Ffree-certificates-banner.png%22%2C%22providerName%22%3A%22Class%20Central%22%2C%22summary%22%3A%221000s%20of%20courses%20with%20free%20certificates%20and%20badges%20from%20universities%2C%20companies%2C%20and%20nonprofits%20worldwide.%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png%22%2C%22institutionName%22%3A%22Class%20Central%22%2C%22frequency%22%3A2%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22science%22%5D%7D" style="width: 100%; border: 0;"></iframe>
   </li>
 
 
@@ -6409,7 +6409,7 @@
         <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Open%20Innovation%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.harvardonline.harvard.edu%5C%2Fcourse%5C%2Fopen-innovation%3Futm_medium%3Dpaid-leads%26utm_source%3Dclass-central%26utm_campaign%3DOPEN%26utm_content%3D44980%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fho-open-innovation.jpg%22%2C%22providerName%22%3A%22Harvard%20Online%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Finstitutions%5C%2Fharvard-online-hz.png%22%2C%22institutionName%22%3A%22Harvard%20Online%22%2C%22summary%22%3A%22Learn%20strategies%20for%20finding%20the%20best%20ideas%2C%20solutions%2C%20and%20people%20necessary%20to%20solve%20your%20organization%5Cu2019s%20most%20difficult%20problems.%22%2C%22frequency%22%3A1%2C%22tableId%22%3A%22subjectstable%22%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Programming%20with%20Python%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Femeritus.sjv.io%5C%2Fc%5C%2F259799%5C%2F1587067%5C%2F18013%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Femeritus-programming-python.jpg%22%2C%22providerName%22%3A%22Emeritus%22%2C%22institutionLogo%22%3A%22%5C%2Fads%5C%2Fcmu-hz.png%22%2C%22institutionName%22%3A%22Carnegie%20Mellon%20University%22%2C%22summary%22%3A%2210-week%20online%20program%20focused%20on%20writing%20code%20using%20common%20structures%20in%20the%20Python%20programming%20language%2C%20content%20is%20shared%20via%20recorded%20faculty%20videos%20and%20live%20office%20hours%20with%20learning%20facilitators.%22%2C%22frequency%22%3A1%2C%22tableId%22%3A%22subjectstable%22%7D" style="width: 100%; border: 0;"></iframe>
   </li>
   
 
@@ -8286,7 +8286,7 @@ El presente curso desarrolla los conceptos sobre la generación de pronósticos 
     <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Blockchain%20Essentials%20Certificate%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Ftechnology%5C%2Fblockchain-essentials%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dtech_Blockchain%2520Essentials%2520Class%2520Central%2520Ad%22%2C%22courseDate%22%3A%22Flexible%22%2C%22providerName%22%3A%22eCornell%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png%22%2C%22institutionName%22%3A%22eCornell%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fblockchain-essentials-560x315.jpg%22%2C%22summary%22%3A%22In%20this%20certificate%20program%20you%20will%20learn%20the%20mechanics%20of%20blockchain%20technology%20and%20understand%20applications%20and%20implications%20of%20blockchain%20for%20your%20business.%22%2C%22frequency%22%3A1%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22science%22%5D%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%221000%20Hours%20of%20Free%20LinkedIn%20Learning%20Courses%20with%20Free%20Certification%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Flinkedin-learning-free-learning-paths%5C%2F%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F12%5C%2Flinked-learning-free-courses.png%22%2C%22providerName%22%3A%22Class%20Central%22%2C%22summary%22%3A%22137%20courses%20and%207%20learning%20paths%20offering%20free%20certificates%2C%20as%20well%20as%20378%20free%20courses%2C%20for%20a%20total%20of%20about%201000%20hours%20of%20free%20online%20learning.%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png%22%2C%22institutionName%22%3A%22Class%20Central%22%2C%22frequency%22%3A3%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22science%22%5D%7D" style="width: 100%; border: 0;"></iframe>
   </li>
 </ol>
 
@@ -8734,7 +8734,7 @@ El presente curso desarrolla los conceptos sobre la generación de pronósticos 
       </a>
     </li>
     <li>
-      <a href="/cdn-cgi/l/email-protection#f4cb8781969e919780c9a7979d919a9791d2959984cf969b908dc9c7c7c3cdd1c6c4a7979d919a9791d1c6c492869191d1c6c49b9a989d9a91d1c6c4979b8186879187d1c6c4959a90d1c6c4b9bbbbb787d1c6c49c80808487d1c7b5d1c6b2d1c6b2838383da979895878797919a80869598da979b99d1c6b28781969e919780d1c6b287979d919a9791" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "Science" }' data-track-ga='[
+      <a href="/cdn-cgi/l/email-protection#e3dc90968189868097deb0808a868d8086c5828e93d8818c879aded0d0d4dac6d1d3b0808a868d8086c6d1d385918686c6d1d38c8d8f8a8d86c6d1d3808c9691908690c6d1d3828d87c6d1d3aeacaca090c6d1d38b97979390c6d0a2c6d1a5c6d1a5949494cd808f82909080868d9791828fcd808c8ec6d1a590968189868097c6d1a590808a868d8086" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "Science" }' data-track-ga='[
           { 
             "category": "Social Widget sharing by network", 
             "action": "email", 
@@ -8831,7 +8831,7 @@ El presente curso desarrolla los conceptos sobre la generación de pronósticos 
     url: "",
     indexes: {"weekly":"2023_02_26","monthly":"2023_02"},
     trackImpressions: true,
-    globalProps: {"abTests":[],"deviceType":"desktop","page":"subject","user":[],"metadata":{"subject_id":42,"subject_slug":"science","subject_name":"Science"},"original_referer":"direct","created":"2023-03-01T22:45:26+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
+    globalProps: {"abTests":[],"deviceType":"desktop","page":"subject","user":[],"metadata":{"subject_id":42,"subject_slug":"science","subject_name":"Science"},"original_referer":"direct","created":"2023-03-02T00:05:18+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
   });
 
   CC.track = window.CC.Class.Analytics.track.bind(window.CC.Class.Analytics);
