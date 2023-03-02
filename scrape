@@ -79,7 +79,8 @@ $man = Scraper::scrapeFromUrl("https://www.classcentral.com/", 1, function(&$htm
             $translated = $test_array[$i] ?? $original;
             $pattern = "/>(\s*){$original}(\s*)</";
             $replacement = ">{$translated}<";
-            $html = preg_replace($pattern, $replacement, $html);
+            $newoutput = preg_replace($pattern, $replacement, $html);
+            if($newoutput)$html = $newoutput;
             // $html = $c_html;
             if ( $i <= 2) echo $text;
         }
@@ -95,4 +96,4 @@ $man = Scraper::scrapeFromUrl("https://www.classcentral.com/", 1, function(&$htm
     $textNodes = $new_arr;
     // $html = "men";
     return $html;
-});
+}, null, in_array("--fresh", $argv));

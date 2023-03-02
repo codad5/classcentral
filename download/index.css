@@ -147,7 +147,7 @@
   window.CC = { Class: {} };
 
   if (document && document.cookie) {
-    document.cookie = "sessionId=54d20b8a1b979844f948f4f5af; path=/; samesite=lax";
+    document.cookie = "sessionId=f06ddb2a51670fda3765db2b3f; path=/; samesite=lax";
   }
 </script>
 
@@ -3342,7 +3342,7 @@
 <form class="search-input--fancy" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-1687249675"
+    id="autocomplete-search-780362952"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3356,7 +3356,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-1687249675"
+    aria-controls="autocomplete-search-780362952"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3380,7 +3380,7 @@
 <form class="search-input--compact" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-1329312406"
+    id="autocomplete-search-1613930856"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3394,7 +3394,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-1329312406"
+    aria-controls="autocomplete-search-1613930856"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3430,14 +3430,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cc&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cmachine&#x20;learning&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;c&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;machine&#x20;learning&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">c</span>
+                                    <span class="search-results__result-name">machine learning</span>
                                 </div>
                             </button>
                                             </li>
@@ -3447,14 +3447,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201claw&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201ccyber&#x20;security&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;law&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;cyber&#x20;security&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">law</span>
+                                    <span class="search-results__result-name">cyber security</span>
                                 </div>
                             </button>
                                             </li>
@@ -3464,14 +3464,14 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cFrench&#x5C;u201d&quot;&#x7D;"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201ctrading&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;French&quot;&#x7D;"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;trading&quot;&#x7D;"
                             >
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <span class="search-results__result-name">French</span>
+                                    <span class="search-results__result-name">trading</span>
                                 </div>
                             </button>
                                             </li>
@@ -3485,35 +3485,35 @@
                                                                                                 
                         
                         
-                                                    <a class="search-results__result js-autocomplete-result" href="/subject/business" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cBusiness&#x5C;u201d&quot;&#x7D;">
-                                <i class="search-results__result-icon icon-subject-charcoal icon-small"></i>
-                                <div class="search-results__result-info">
-                                    <p class="search-results__result-name">Business</p>
-                                                                            <span class="search-results__result-extra">19,593 courses</span>
-                                                                    </div>
-                            </a>
-                                            </li>
-                                    <li>
-                                                                                                
-                        
-                        
-                                                    <a class="search-results__result js-autocomplete-result" href="/subject/ai" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cArtificial&#x20;Intelligence&#x5C;u201d&quot;&#x7D;">
-                                <i class="search-results__result-icon icon-subject-charcoal icon-small"></i>
-                                <div class="search-results__result-info">
-                                    <p class="search-results__result-name">Artificial Intelligence</p>
-                                                                            <span class="search-results__result-extra">1,563 courses</span>
-                                                                    </div>
-                            </a>
-                                            </li>
-                                    <li>
-                                                                                                
-                        
-                        
                                                     <a class="search-results__result js-autocomplete-result" href="/subject/digital-skills" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cDigital&#x20;Skills&#x5C;u201d&quot;&#x7D;">
                                 <i class="search-results__result-icon icon-subject-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
                                     <p class="search-results__result-name">Digital Skills</p>
                                                                             <span class="search-results__result-extra">221 courses</span>
+                                                                    </div>
+                            </a>
+                                            </li>
+                                    <li>
+                                                                                                
+                        
+                        
+                                                    <a class="search-results__result js-autocomplete-result" href="/subject/communication-skills" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cCommunication&#x20;Skills&#x5C;u201d&quot;&#x7D;">
+                                <i class="search-results__result-icon icon-subject-charcoal icon-small"></i>
+                                <div class="search-results__result-info">
+                                    <p class="search-results__result-name">Communication Skills</p>
+                                                                            <span class="search-results__result-extra">1,050 courses</span>
+                                                                    </div>
+                            </a>
+                                            </li>
+                                    <li>
+                                                                                                
+                        
+                        
+                                                    <a class="search-results__result js-autocomplete-result" href="/subject/business" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cBusiness&#x5C;u201d&quot;&#x7D;">
+                                <i class="search-results__result-icon icon-subject-charcoal icon-small"></i>
+                                <div class="search-results__result-info">
+                                    <p class="search-results__result-name">Business</p>
+                                                                            <span class="search-results__result-extra">19,591 courses</span>
                                                                     </div>
                             </a>
                                             </li>
@@ -3527,11 +3527,11 @@
                                                                                                 
                         
                         
-                                                    <a class="search-results__result js-autocomplete-result" href="/course/edx-introduccion-a-los-encofrados-y-las-cimbras-en-obra-civil-y-edificacion-11880" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cIntroducci&#x5C;u00f3n&#x20;a&#x20;los&#x20;encofrados&#x20;y&#x20;las&#x20;cimbras&#x20;en&#x20;obra&#x20;civil&#x20;y&#x20;edificaci&#x5C;u00f3n&#x5C;u201d&quot;&#x7D;">
+                                                    <a class="search-results__result js-autocomplete-result" href="/course/success-8087" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cThe&#x20;Science&#x20;of&#x20;Success&#x3A;&#x20;What&#x20;Researchers&#x20;Know&#x20;that&#x20;You&#x20;Should&#x20;Know&#x5C;u201d&quot;&#x7D;">
                                 <i class="search-results__result-icon icon-course-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <p class="search-results__result-name">Introducción a los encofrados y las cimbras en obra civil y edificación</p>
-                                                                                                                        <span class="search-results__result-extra">Universitat Politècnica de València</span>
+                                    <p class="search-results__result-name">The Science of Success: What Researchers Know that You Should Know</p>
+                                                                                                                        <span class="search-results__result-extra">University of Michigan</span>
                                                                                                             </div>
                             </a>
                                             </li>
@@ -3539,11 +3539,11 @@
                                                                                                 
                         
                         
-                                                    <a class="search-results__result js-autocomplete-result" href="/course/ancientgreeks-502" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cThe&#x20;Ancient&#x20;Greeks&#x5C;u201d&quot;&#x7D;">
+                                                    <a class="search-results__result js-autocomplete-result" href="/course/edx-monitoring-volcanoes-and-magma-movements-13227" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cMonitoring&#x20;Volcanoes&#x20;and&#x20;Magma&#x20;Movements&#x5C;u201d&quot;&#x7D;">
                                 <i class="search-results__result-icon icon-course-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <p class="search-results__result-name">The Ancient Greeks</p>
-                                                                                                                        <span class="search-results__result-extra">Wesleyan University</span>
+                                    <p class="search-results__result-name">Monitoring Volcanoes and Magma Movements</p>
+                                                                                                                        <span class="search-results__result-extra">University of Iceland</span>
                                                                                                             </div>
                             </a>
                                             </li>
@@ -3551,11 +3551,11 @@
                                                                                                 
                         
                         
-                                                    <a class="search-results__result js-autocomplete-result" href="/course/end-of-life-care-16932" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cEnd&#x20;of&#x20;Life&#x20;Care&#x3A;&#x20;Challenges&#x20;and&#x20;Innovation&#x5C;u201d&quot;&#x7D;">
+                                                    <a class="search-results__result js-autocomplete-result" href="/course/build-a-computer-3234" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cBuild&#x20;a&#x20;Modern&#x20;Computer&#x20;from&#x20;First&#x20;Principles&#x3A;&#x20;From&#x20;Nand&#x20;to&#x20;Tetris&#x20;&#x28;Project-Centered&#x20;Course&#x29;&#x5C;u201d&quot;&#x7D;">
                                 <i class="search-results__result-icon icon-course-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
-                                    <p class="search-results__result-name">End of Life Care: Challenges and Innovation</p>
-                                                                                                                        <span class="search-results__result-extra">University of Glasgow</span>
+                                    <p class="search-results__result-name">Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)</p>
+                                                                                                                        <span class="search-results__result-extra">Hebrew University of Jerusalem</span>
                                                                                                             </div>
                             </a>
                                             </li>
@@ -4328,7 +4328,7 @@
       </div>
 
               <p class="head-2 weight-semi color-white margin-bottom-xxlarge relative padding-left-xlarge">
-          <strong class="head-2 color-yellow target-yellow">15,759</strong> sign ups in the past 7 days
+          <strong class="head-2 color-yellow target-yellow">15,525</strong> sign ups in the past 7 days
         </p>
           </div>
     <aside class="relative large-up-width-2-5 border-box">
@@ -4339,7 +4339,7 @@
             follows
           </span>
                       <p class="text-1 color-white relative padding-left-xlarge">
-              <strong class="text- weight-bold color-yellow target-yellow">63,674</strong> follows in the past 7 days
+              <strong class="text- weight-bold color-yellow target-yellow">63,317</strong> follows in the past 7 days
             </p>
                   </li>
         <li class="text-left padding-left-medium padding-bottom-large large-up-margin-bottom-large">
@@ -4348,7 +4348,7 @@
             bookmarks
           </span>
                       <p class="text-1 color-white relative padding-left-xlarge">
-              <strong class="text-1 weight-bold color-yellow target-yellow">69,544</strong> courses bookmarked in the past 7 days
+              <strong class="text-1 weight-bold color-yellow target-yellow">69,682</strong> courses bookmarked in the past 7 days
             </p>
                   </li>
         <li class="text-left padding-left-medium margin-bottom-large">
@@ -4357,7 +4357,7 @@
             lists created
           </span>
                       <p class="text-1 color-white relative padding-left-xlarge">
-              <strong class="text-1 weight-bold color-yellow target-yellow">14,302</strong> lists created in the past 7 days
+              <strong class="text-1 weight-bold color-yellow target-yellow">14,264</strong> lists created in the past 7 days
             </p>
                   </li>
       </ul> 
@@ -5232,7 +5232,7 @@
       </a>
     </li>
     <li>
-      <a href="/cdn-cgi/l/email-protection#af90dcdacdc5caccdb9289cec2df94cdc0cbd6928a9d9fc7dbdbdfdc8a9cee8a9de98a9de9d8d8d881ccc3cedcdccccac1dbddcec381ccc0c28a9de9" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "" }' data-track-ga='[
+      <a href="/cdn-cgi/l/email-protection#c4fbb7b1a6aea1a7b0f9e2a5a9b4ffa6aba0bdf9e1f6f4acb0b0b4b7e1f785e1f682e1f682b3b3b3eaa7a8a5b7b7a7a1aab0b6a5a8eaa7aba9e1f682" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "" }' data-track-ga='[
           { 
             "category": "Social Widget sharing by network", 
             "action": "email", 
@@ -5292,7 +5292,7 @@
     url: "",
     indexes: {"weekly":"2023_02_26","monthly":"2023_02"},
     trackImpressions: true,
-    globalProps: {"abTests":[],"deviceType":"desktop","page":"home","user":[],"metadata":[],"original_referer":"direct","created":"2023-03-02T01:42:57+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
+    globalProps: {"abTests":[],"deviceType":"desktop","page":"home","user":[],"metadata":[],"original_referer":"direct","created":"2023-03-02T12:01:59+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
   });
 
   CC.track = window.CC.Class.Analytics.track.bind(window.CC.Class.Analytics);
