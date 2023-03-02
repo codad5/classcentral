@@ -120,7 +120,7 @@
   window.CC = { Class: {} };
 
   if (document && document.cookie) {
-    document.cookie = "sessionId=9a52178e312602b8854d111981; path=/; samesite=lax";
+    document.cookie = "sessionId=fc8cc939202eaea1c4d1f516c9; path=/; samesite=lax";
   }
 </script>
 
@@ -3205,7 +3205,7 @@
 <form class="search-input" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-1961308275"
+    id="autocomplete-search-942981412"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3219,7 +3219,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-1961308275"
+    aria-controls="autocomplete-search-942981412"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3244,7 +3244,7 @@
 <form class="search-input--compact" method="GET" action="/search">
   <i class="icon-search-charcoal icon-medium search-input__search-icon"></i>
   <input
-    id="autocomplete-search-1708519919"
+    id="autocomplete-search-1682325818"
     class="search-input__input is-blank"
     type="search"
     autocomplete="off"
@@ -3258,7 +3258,7 @@
     class="search-input__clear-button"
     type="button"
     aria-label="Clear"
-    aria-controls="autocomplete-search-1708519919"
+    aria-controls="autocomplete-search-1682325818"
     data-name="AUTOCOMPLETE_CLEAR"
     hidden
   ><i class="icon-x-charcoal icon-xsmall"></i></button>
@@ -3294,40 +3294,6 @@
                         
                                                     <button
                                 class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cEnglish&#x5C;u201d&quot;&#x7D;"
-                                type="button"
-                                data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;English&quot;&#x7D;"
-                            >
-                                <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
-                                <div class="search-results__result-info">
-                                    <span class="search-results__result-name">English</span>
-                                </div>
-                            </button>
-                                            </li>
-                                    <li>
-                                                                                                
-                                                                                                                                    
-                        
-                                                    <button
-                                class="search-results__result js-autocomplete-result"
-                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cmarketing&#x5C;u201d&quot;&#x7D;"
-                                type="button"
-                                data-name="SUGGESTED_SEARCH_TERM"
-                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;marketing&quot;&#x7D;"
-                            >
-                                <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
-                                <div class="search-results__result-info">
-                                    <span class="search-results__result-name">marketing</span>
-                                </div>
-                            </button>
-                                            </li>
-                                    <li>
-                                                                                                
-                                                                                                                                    
-                        
-                                                    <button
-                                class="search-results__result js-autocomplete-result"
                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cjavascript&#x5C;u201d&quot;&#x7D;"
                                 type="button"
                                 data-name="SUGGESTED_SEARCH_TERM"
@@ -3336,6 +3302,40 @@
                                 <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
                                     <span class="search-results__result-name">javascript</span>
+                                </div>
+                            </button>
+                                            </li>
+                                    <li>
+                                                                                                
+                                                                                                                                    
+                        
+                                                    <button
+                                class="search-results__result js-autocomplete-result"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cmachine&#x20;learning&#x5C;u201d&quot;&#x7D;"
+                                type="button"
+                                data-name="SUGGESTED_SEARCH_TERM"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;machine&#x20;learning&quot;&#x7D;"
+                            >
+                                <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
+                                <div class="search-results__result-info">
+                                    <span class="search-results__result-name">machine learning</span>
+                                </div>
+                            </button>
+                                            </li>
+                                    <li>
+                                                                                                
+                                                                                                                                    
+                        
+                                                    <button
+                                class="search-results__result js-autocomplete-result"
+                                data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;suggested_search_term&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201chtml&#x5C;u201d&quot;&#x7D;"
+                                type="button"
+                                data-name="SUGGESTED_SEARCH_TERM"
+                                data-detail="&#x7B;&quot;term&quot;&#x3A;&quot;html&quot;&#x7D;"
+                            >
+                                <i class="search-results__result-icon icon-search-charcoal icon-small"></i>
+                                <div class="search-results__result-info">
+                                    <span class="search-results__result-name">html</span>
                                 </div>
                             </button>
                                             </li>
@@ -3651,12 +3651,12 @@
                       
 <div
   data-template="follow-subject-115"
-  data-button-follow='{"name":"Programming","followers":"422,002"}'
+  data-button-follow='{"name":"Programming","followers":"422,043"}'
   class="cmpt-follow  "
 >
   <button
     data-name="FOLLOW"
-    data-detail='{"cmptId":false,"id":115,"name":"subject","count":422002,"hideCountOnFollowed":false,"size":"medium"}'
+    data-detail='{"cmptId":false,"id":115,"name":"subject","count":422043,"hideCountOnFollowed":false,"size":"medium"}'
     class="btn-blue btn-medium"
   >
       Follow            <span class="cmpt-follow-count bg-blue-black radius-small padding-horz-xxsmall margin-left-xsmall">422.0k</span>
@@ -4604,7 +4604,7 @@
           
               
         <li class="catalog-filter-group">
-                    <ol class="list-no-style padding-vert-xsmall catalog-filter-group__filter-list" id="catalog-filter-2081802246">
+                    <ol class="list-no-style padding-vert-xsmall catalog-filter-group__filter-list" id="catalog-filter-1067181031">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4708,7 +4708,7 @@
                 <span class="text-1 weight-semi">Level</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-1106308631">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-1102735313">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4789,7 +4789,7 @@
                 <span class="text-1 weight-semi">Duration</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-556735505">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list" id="catalog-filter-630289363">
                                                                                     
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -4872,7 +4872,7 @@
                 <span class="text-1 weight-semi">Language</span>
                 <i class="icon-small icon-chevron-right-charcoal"></i>
               </summary>
-                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list is-truncated" id="catalog-filter-1202597545">
+                    <ol class="list-no-style padding-bottom-small catalog-filter-group__filter-list is-truncated" id="catalog-filter-1828904364">
                                                           
                 <li>
                   <fieldset class="checkbox checkbox-medium relative">
@@ -5546,7 +5546,7 @@
               class="catalog-filter-group__truncation"
               aria-hidden="true"
               data-name="CATALOG_FILTER_SHOW_ALL"
-              data-detail="&#x7B;&quot;filterId&quot;&#x3A;&quot;catalog-filter-1202597545&quot;&#x7D;"
+              data-detail="&#x7B;&quot;filterId&quot;&#x3A;&quot;catalog-filter-1828904364&quot;&#x7D;"
             >
               <span class="btn-white btn-small catalog-filter-group__truncation-button">See all</span>
             </button>
@@ -5580,7 +5580,7 @@
     <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Cybersecurity%20Certificate%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Ftechnology%5C%2Fcybersecurity%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dtech_Cybersecurity%2520Class%2520Central%2520Ad%22%2C%22courseDate%22%3A%22Flexible%22%2C%22providerName%22%3A%22eCornell%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png%22%2C%22institutionName%22%3A%22eCornell%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fcybersecurity-560x315.jpg%22%2C%22summary%22%3A%22Develop%20a%20practical%20literacy%20in%20cybersecurity.%20Learn%20the%20principles%20needed%20to%20understand%20the%20design%20and%20analysis%20of%20secure%20systems.%22%2C%22frequency%22%3A1%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22programming-and-software-development%22%5D%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%221000s%20of%20Free%20Certificates%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-certificates%5C%2F%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F12%5C%2Ffree-certificates-banner.png%22%2C%22providerName%22%3A%22Class%20Central%22%2C%22summary%22%3A%221000s%20of%20courses%20with%20free%20certificates%20and%20badges%20from%20universities%2C%20companies%2C%20and%20nonprofits%20worldwide.%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png%22%2C%22institutionName%22%3A%22Class%20Central%22%2C%22frequency%22%3A2%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22programming-and-software-development%22%5D%7D" style="width: 100%; border: 0;"></iframe>
   </li>
 
 
@@ -7194,7 +7194,7 @@
         <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Data%20Science%20with%20SQL%20and%20Tableau%20Certificate%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Fdata-science%5C%2Fdata-science-with-sql-and-tableau%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Ddatascience_Data%2520Science%2520with%2520SQL%2520and%2520Tableau%2520Class%2520Central%2520Ad%22%2C%22courseDate%22%3A%22Flexible%22%2C%22providerName%22%3A%22eCornell%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png%22%2C%22institutionName%22%3A%22eCornell%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fdata-science-with-sql-and-tableau-560x315.jpg%22%2C%22summary%22%3A%22This%20certificate%20program%20is%20designed%20to%20help%20you%20analyze%20data%20in%20a%20relational%20database%20and%20develop%20your%20understanding%20of%20the%20relationship%20between%20SQL%20and%20data%20visualizations.%22%2C%22frequency%22%3A1%2C%22tableId%22%3A%22subjectstable%22%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%221000s%20of%20Free%20Certificates%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-certificates%5C%2F%22%2C%22imageUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F12%5C%2Ffree-certificates-banner.png%22%2C%22providerName%22%3A%22Class%20Central%22%2C%22summary%22%3A%221000s%20of%20courses%20with%20free%20certificates%20and%20badges%20from%20universities%2C%20companies%2C%20and%20nonprofits%20worldwide.%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png%22%2C%22institutionName%22%3A%22Class%20Central%22%2C%22frequency%22%3A2%2C%22tableId%22%3A%22subjectstable%22%7D" style="width: 100%; border: 0;"></iframe>
   </li>
   
 
@@ -8980,7 +8980,7 @@ Th…
     <li
     class="bg-white border-all border-gray-light padding-xsmall radius-small margin-bottom-small medium-up-padding-horz-large medium-up-padding-vert-medium relative"
   >
-    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22Figma%20Design%20Essentials%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FDVYAgq%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fskillshare-figma-design-essentials-hz.png%22%2C%22providerName%22%3A%22Skillshare%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png%22%2C%22institutionName%22%3A%22Skillshare%22%2C%22summary%22%3A%22Hi%20there%20-%20my%20name%20is%20Dan%20Scott%20%26%20welcome%20to%20Figma%20Essentials.%20Together%20-%20you%20and%20me%20-%20are%20going%20to%20learn%20everything%20you%20need%20to%20get%20started%20working%20as%20a%20UX%20Designer%20using%20Figma.%22%2C%22frequency%22%3A5%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22programming-and-software-development%22%5D%7D" style="width: 100%; border: 0;"></iframe>
+    <iframe class="catalog-iframe" src="/catalog-iframe?a=%7B%22courseName%22%3A%22How%20to%20Organize%20your%20your%20Workflow%20to%20Maximize%20Productivity%22%2C%22courseUrl%22%3A%22https%3A%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FYgX4Gq%22%2C%22imageUrl%22%3A%22%5C%2Fads%5C%2Fskillshare-how-to-organize-your-your-workflow-to-maximize-productivity-hz.png%22%2C%22providerName%22%3A%22Skillshare%22%2C%22institutionLogo%22%3A%22%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png%22%2C%22institutionName%22%3A%22Skillshare%22%2C%22summary%22%3A%22In%20this%20second%20class%20of%20my%20series%20on%20improving%20our%20personal%20productivity%20I%20want%20to%20further%20explore%20the%20systems%2C%20workflows%20and%20organization%20techniques%20we%20can%20use%20to%20maximize%20our%20output.%22%2C%22frequency%22%3A5%2C%22tableId%22%3A%22subjectstable%22%2C%22subjects%22%3A%5B%22programming-and-software-development%22%5D%7D" style="width: 100%; border: 0;"></iframe>
   </li>
 </ol>
 
@@ -9428,7 +9428,7 @@ Th…
       </a>
     </li>
     <li>
-      <a href="/cdn-cgi/l/email-protection#69561a1c0b030c0a1d54391b060e1b08040400070e4f080419520b060d105458595959594c5b59391b060e1b08040400070e4c5b590f1b0c0c4c5b5906070500070c4c5b590a061c1b1a0c1a4c5b5908070d4c5b592426262a1a4c5b59011d1d191a4c5a284c5b2f4c5b2f1e1e1e470a05081a1a0a0c071d1b0805470a06044c5b2f1a1c0b030c0a1d4c5b2f191b060e1b08040400070e4408070d441a060f1d1e081b0c440d0c1f0c050619040c071d" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "Programming" }' data-track-ga='[
+      <a href="/cdn-cgi/l/email-protection#6d521e180f07080e19503d1f020a1f0c000004030a4b0c001d560f020914505c5d5d5d5d485f5d3d1f020a1f0c000004030a485f5d0b1f0808485f5d020301040308485f5d0e02181f1e081e485f5d0c0309485f5d2022222e1e485f5d0519191d1e485e2c485f2b485f2b1a1a1a430e010c1e1e0e0803191f0c01430e0200485f2b1e180f07080e19485f2b1d1f020a1f0c000004030a400c0309401e020b191a0c1f084009081b0801021d00080319" class="padding-horz-medium padding-vert-xxsmall hover-no-underline color-charcoal block hover-bg-gray-light" data-track-click="social_click" data-track-props='{ "type": "Email", "title": "Programming" }' data-track-ga='[
           { 
             "category": "Social Widget sharing by network", 
             "action": "email", 
@@ -9525,7 +9525,7 @@ Th…
     url: "",
     indexes: {"weekly":"2023_02_26","monthly":"2023_02"},
     trackImpressions: true,
-    globalProps: {"abTests":[],"deviceType":"desktop","page":"subject","user":[],"metadata":{"subject_id":115,"subject_slug":"programming-and-software-development","subject_name":"Programming"},"original_referer":"direct","created":"2023-03-01T23:03:19+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
+    globalProps: {"abTests":[],"deviceType":"desktop","page":"subject","user":[],"metadata":{"subject_id":115,"subject_slug":"programming-and-software-development","subject_name":"Programming"},"original_referer":"direct","created":"2023-03-02T01:34:26+00:00","referrer_info":{"referrer":null,"source":null,"term":null,"medium":null},"locationDetails":{"country":{"iso_code":"US","name":"United States"},"city":{"name":null},"location":{"accuracy_radius":1000,"latitude":37.751,"longitude":-97.822,"time_zone":"America\/Chicago"}},"user_agent":{"browser":{"family":null,"major":"","minor":"","patch":""},"os":{"family":null,"major":"UNK","minor":"","patch":"","nickname":""},"device":{"type":"","family":""}}}
   });
 
   CC.track = window.CC.Class.Analytics.track.bind(window.CC.Class.Analytics);
